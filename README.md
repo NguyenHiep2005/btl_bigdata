@@ -40,6 +40,7 @@ docker-compose up
 
 # Terminal 2
 cd traffic-prediction-system
+
 source venv/bin/activate
 
 python data_generator.py
@@ -47,6 +48,7 @@ python data_generator.py
 
 # Teminal 3
 cd traffic-prediction-system
+
 source venv/bin/activate
 
 python prediction_pyspark.py
@@ -54,6 +56,7 @@ python prediction_pyspark.py
 
 # Terminal 4
 cd traffic-prediction-system
+
 source venv/bin/activate
 
 python backend/app.py
