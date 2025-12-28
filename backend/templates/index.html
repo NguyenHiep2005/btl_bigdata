@@ -1,0 +1,471 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dự Đoán Tắc Đường Real-time Hà Nội</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" />
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+        
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: #0f172a;
+            color: #e2e8f0;
+        }
+        
+        .container {
+            display: flex;
+            height: 100vh;
+        }
+        
+        .sidebar {
+            width: 320px;
+            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+            border-right: 1px solid #334155;
+            overflow-y: auto;
+            padding: 20px;
+        }
+        
+        .main-content {
+            flex: 1;
+            display: flex;
+            flex-direction: column;
+        }
+        
+        .header {
+            background: linear-gradient(135deg, #1e293b 0%, #0f172a 100%);
+            border-bottom: 1px solid #334155;
+            padding: 15px 20px;
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+        
+        .header h1 {
+            font-size: 24px;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+        
+        .status-indicator {
+            display: flex;
+            gap: 15px;
+        }
+        
+        .status-item {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 8px 12px;
+            background: rgba(51, 65, 85, 0.5);
+            border-radius: 6px;
+        }
+        
+        .status-dot {
+            width: 12px;
+            height: 12px;
+            border-radius: 50%;
+        }
+        
+        .dot-green { background: #22c55e; }
+        .dot-yellow { background: #eab308; }
+        .dot-red { background: #ef4444; }
+        
+        #map {
+            flex: 1;
+            background: #1a202c;
+        }
+        
+        .sidebar h2 {
+            font-size: 18px;
+            margin-bottom: 15px;
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            color: #60a5fa;
+        }
+        
+        .stats-box {
+            background: rgba(51, 65, 85, 0.5);
+            padding: 15px;
+            border-radius: 8px;
+            margin-bottom: 15px;
+            border: 1px solid #334155;
+        }
+        
+        .stat {
+            display: flex;
+            justify-content: space-between;
+            padding: 8px 0;
+            border-bottom: 1px solid #334155;
+        }
+        
+        .stat:last-child {
+            border-bottom: none;
+        }
+        
+        .stat-label {
+            font-size: 12px;
+            color: #94a3b8;
+        }
+        
+        .stat-value {
+            font-size: 16px;
+            font-weight: bold;
+            color: #60a5fa;
+        }
+        
+        .road-list {
+            max-height: 400px;
+            overflow-y: auto;
+        }
+        
+        .road-item {
+            background: rgba(51, 65, 85, 0.5);
+            padding: 12px;
+            margin-bottom: 10px;
+            border-radius: 6px;
+            border-left: 4px solid #60a5fa;
+            cursor: pointer;
+            transition: all 0.3s;
+        }
+        
+        .road-item:hover {
+            background: rgba(51, 65, 85, 0.8);
+            transform: translateX(5px);
+        }
+        
+        .road-name {
+            font-weight: 600;
+            font-size: 13px;
+            margin-bottom: 5px;
+        }
+        
+        .road-info {
+            font-size: 11px;
+            color: #94a3b8;
+            display: flex;
+            gap: 10px;
+        }
+        
+        .road-status {
+            font-size: 12px;
+            font-weight: 600;
+            padding: 3px 8px;
+            border-radius: 4px;
+            margin-top: 5px;
+            display: inline-block;
+        }
+        
+        .status-danger {
+            background: rgba(239, 68, 68, 0.3);
+            color: #fca5a5;
+            border-left-color: #ef4444;
+        }
+        
+        .status-warning {
+            background: rgba(234, 179, 8, 0.3);
+            color: #fef08a;
+            border-left-color: #eab308;
+        }
+        
+        .status-safe {
+            background: rgba(34, 197, 94, 0.3);
+            color: #bbf7d0;
+            border-left-color: #22c55e;
+        }
+        
+        .refresh-btn {
+            width: 100%;
+            padding: 10px;
+            background: #3b82f6;
+            border: none;
+            border-radius: 6px;
+            color: white;
+            cursor: pointer;
+            font-weight: 600;
+            margin-top: 10px;
+            transition: background 0.3s;
+        }
+        
+        .refresh-btn:hover {
+            background: #2563eb;
+        }
+        
+        .popup-content {
+            background: #1e293b;
+            padding: 12px;
+            border-radius: 6px;
+            min-width: 200px;
+        }
+        
+        .popup-content h4 {
+            color: #60a5fa;
+            margin-bottom: 8px;
+            font-size: 14px;
+        }
+        
+        .popup-row {
+            display: flex;
+            justify-content: space-between;
+            font-size: 12px;
+            padding: 4px 0;
+            color: #cbd5e1;
+        }
+        
+        ::-webkit-scrollbar {
+            width: 6px;
+        }
+        
+        ::-webkit-scrollbar-track {
+            background: rgba(51, 65, 85, 0.3);
+        }
+        
+        ::-webkit-scrollbar-thumb {
+            background: #60a5fa;
+            border-radius: 3px;
+        }
+        
+        .loading {
+            text-align: center;
+            color: #94a3b8;
+            padding: 20px;
+        }
+        
+        .spinner {
+            display: inline-block;
+            width: 20px;
+            height: 20px;
+            border: 3px solid #334155;
+            border-top-color: #60a5fa;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+        }
+        
+        @keyframes spin {
+            to { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="sidebar">
+            <h2><i class="fas fa-chart-bar"></i> Thống Kê</h2>
+            <div class="stats-box">
+                <div class="stat">
+                    <span class="stat-label">Tổng đường được giám sát</span>
+                    <span class="stat-value" id="totalRoads">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Đường tắc</span>
+                    <span class="stat-value" style="color: #ef4444;" id="congestedRoads">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Cảnh báo</span>
+                    <span class="stat-value" style="color: #eab308;" id="warningRoads">0</span>
+                </div>
+                <div class="stat">
+                    <span class="stat-label">Thông thoáng</span>
+                    <span class="stat-value" style="color: #22c55e;" id="safeRoads">0</span>
+                </div>
+            </div>
+            
+            <h2><i class="fas fa-road"></i> Các Tuyến Đường</h2>
+            <div class="road-list" id="roadList">
+                <div class="loading">
+                    <div class="spinner"></div>
+                    <p>Đang tải dữ liệu...</p>
+                </div>
+            </div>
+            
+            <button class="refresh-btn" onclick="refreshData()">
+                <i class="fas fa-sync-alt"></i> Làm mới
+            </button>
+        </div>
+        
+        <div class="main-content">
+            <div class="header">
+                <h1>
+                    <i class="fas fa-map-location-dot" style="color: #3b82f6;"></i>
+                    Bản Đồ Dự Đoán Tắc Đường Real-time
+                </h1>
+                <div class="status-indicator">
+                    <div class="status-item">
+                        <div class="status-dot dot-red"></div>
+                        <span>Nguy Hiểm</span>
+                    </div>
+                    <div class="status-item">
+                        <div class="status-dot dot-yellow"></div>
+                        <span>Tắc</span>
+                    </div>
+                    <div class="status-item">
+                        <div class="status-dot dot-green"></div>
+                        <span>Thông Thoáng</span>
+                    </div>
+                </div>
+            </div>
+            
+            <div id="map"></div>
+        </div>
+    </div>
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+    <script>
+        const map = L.map('map').setView([21.0285, 105.8542], 13);
+        
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            attribution: '© OpenStreetMap contributors',
+            maxZoom: 19
+        }).addTo(map);
+        
+        let markers = {};
+        let roadData = [];
+        
+        
+        async function fetchData() {
+            try {
+                // Gọi API từ Backend Flask
+                const response = await fetch('/api/current-predictions'); 
+                
+                // Kiểm tra nếu lỗi mạng
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+
+                const result = await response.json();
+                
+                // Cập nhật dữ liệu mới nếu có, nếu không thì dùng mảng rỗng
+                roadData = result.data || result; 
+                
+                
+                updateMap();
+                updateSidebar();
+            } catch (error) {
+                console.error('Lỗi lấy dữ liệu:', error);
+            }
+        }
+        
+        function updateMap() {
+            roadData.forEach(road => {
+                // 1. Xác định màu sắc dựa trên trạng thái mới
+                const color = getStatusColor(road.congestion_status);
+                
+                // 2. Tạo icon mới với số liệu và màu sắc mới nhất
+                const icon = L.divIcon({
+                    html: `<div style="
+                        background-color: ${color}; 
+                        width: 40px; 
+                        height: 40px; 
+                        border-radius: 50%; 
+                        display: flex; 
+                        align-items: center; 
+                        justify-content: center; 
+                        color: white; 
+                        font-weight: bold; 
+                        font-size: 14px; 
+                        border: 2px solid white;
+                        box-shadow: 0 0 10px ${color};
+                        transition: all 0.3s ease;">
+                        ${road.vehicle_count}
+                    </div>`,
+                    iconSize: [40, 40],
+                    className: 'custom-marker' 
+                });
+                
+                const popupContent = `
+                    <div class="popup-content">
+                        <h4 style="border-bottom: 1px solid #334155; padding-bottom: 5px; margin-bottom: 5px;">${road.road_name}</h4>
+                        <div class="popup-row">
+                            <span>Tốc độ:</span>
+                            <strong>${road.speed} km/h</strong>
+                        </div>
+                        <div class="popup-row">
+                            <span>Lượng xe:</span>
+                            <strong>${road.vehicle_count} xe</strong>
+                        </div>
+                        <div class="popup-row">
+                            <span>Mức độ tắc:</span>
+                            <strong>${(road.congestion_level * 100).toFixed(0)}%</strong>
+                        </div>
+                        <div class="popup-row" style="margin-top: 5px;">
+                            <span>Trạng thái:</span>
+                            <span style="background: ${color}; padding: 2px 6px; border-radius: 4px; font-size: 10px; color: white;">
+                                ${road.congestion_status}
+                            </span>
+                        </div>
+                    </div>
+                `;
+
+                if (markers[road.road_id]) {
+                    markers[road.road_id].setLatLng([road.lat, road.lon]);
+                    markers[road.road_id].setIcon(icon); 
+                    markers[road.road_id].setPopupContent(popupContent);
+                } else {
+                    markers[road.road_id] = L.marker([road.lat, road.lon], { icon: icon })
+                        .bindPopup(popupContent)
+                        .addTo(map);
+                }
+            });
+        }
+        
+        function updateSidebar() {
+            const stats = {
+                total: roadData.length,
+                danger: roadData.filter(r => r.congestion_status === 'NGUY HIỂM').length,
+                warning: roadData.filter(r => r.congestion_status === 'TẮC').length,
+                safe: roadData.filter(r => r.congestion_status === 'THÔNG THOÁNG').length
+            };
+            
+            document.getElementById('totalRoads').textContent = stats.total;
+            document.getElementById('congestedRoads').textContent = stats.danger;
+            document.getElementById('warningRoads').textContent = stats.warning;
+            document.getElementById('safeRoads').textContent = stats.safe;
+            
+            const roadList = document.getElementById('roadList');
+            roadList.innerHTML = roadData.map(road => `
+                <div class="road-item ${getStatusClass(road.congestion_status)}">
+                    <div class="road-name">${road.road_name}</div>
+                    <div class="road-info">
+                        <span><i class="fas fa-tachometer-alt"></i> ${road.speed} km/h</span>
+                        <span><i class="fas fa-car"></i> ${road.vehicle_count} xe</span>
+                    </div>
+                    <div class="road-status">${road.congestion_status}</div>
+                </div>
+            `).join('');
+        }
+        
+        function getStatusColor(status) {
+            const colors = {
+                'NGUY HIỂM': '#ef4444',
+                'TẮC': '#eab308',
+                'THÔNG THOÁNG': '#22c55e'
+            };
+            return colors[status] || '#60a5fa';
+        }
+        
+        function getStatusClass(status) {
+            const classes = {
+                'NGUY HIỂM': 'status-danger',
+                'TẮC': 'status-warning',
+                'THÔNG THOÁNG': 'status-safe'
+            };
+            return classes[status] || '';
+        }
+        
+        function refreshData() {
+            fetchData();
+        }
+        
+        fetchData();
+        
+        setInterval(fetchData, 5000);
+    </script>
+</body>
+</html>

@@ -1,0 +1,65 @@
+2025-12-26 21:37:17,598 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-26 21:37:17,598 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-26 21:37:41,340 - __main__ - ERROR - Internal error: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2025-12-26 21:38:49,219 - __main__ - ERROR - Internal error: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2025-12-26 21:40:13,246 - __main__ - ERROR - Internal error: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2025-12-26 21:46:16,037 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-26 21:46:16,038 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-26 21:46:29,037 - __main__ - ERROR - Internal error: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2025-12-26 21:47:52,186 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-26 21:47:52,186 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-26 21:47:55,790 - __main__ - ERROR - Internal error: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2025-12-26 21:47:56,664 - __main__ - ERROR - Internal error: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2025-12-26 21:47:56,916 - __main__ - ERROR - Internal error: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2025-12-26 21:47:57,407 - __main__ - ERROR - Internal error: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2025-12-26 21:47:57,598 - __main__ - ERROR - Internal error: 500 Internal Server Error: The server encountered an internal error and was unable to complete your request. Either the server is overloaded or there is an error in the application.
+2025-12-26 21:52:58,098 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-26 21:52:58,099 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-26 21:58:40,475 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-26 21:58:40,475 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-26 22:05:44,045 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-26 22:05:44,047 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-26 22:12:55,965 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-26 22:12:55,967 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-26 22:28:20,411 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-26 22:28:20,411 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-26 22:33:01,637 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-26 22:33:01,638 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-26 22:36:24,961 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-26 22:36:24,963 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-26 22:42:42,894 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-26 22:42:42,895 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 11:54:05,928 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 11:54:05,931 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 13:49:27,696 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 13:49:27,697 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 13:50:09,306 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 13:50:09,306 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 14:09:03,432 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 14:09:03,434 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 14:12:13,560 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 14:12:13,560 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 14:36:31,895 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 14:36:31,896 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 15:58:48,726 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 15:58:48,728 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 16:01:04,573 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 16:01:04,574 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 16:14:48,208 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 16:14:48,209 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 16:20:17,793 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 16:20:17,793 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 16:21:23,031 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 16:21:23,032 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 16:28:52,383 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 16:28:52,386 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 16:32:23,335 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 16:32:23,336 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 16:42:44,710 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 16:42:44,711 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 17:01:42,479 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 17:01:42,480 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 17:03:10,657 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 17:03:10,658 - __main__ - INFO - Dashboard: http://localhost:5000
+2025-12-28 17:03:58,625 - __main__ - INFO - 🌐 Flask starting on port 5000
+2025-12-28 17:03:58,625 - __main__ - INFO - Dashboard: http://localhost:5000
