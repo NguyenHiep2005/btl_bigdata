@@ -264,6 +264,8 @@ class SparkPredictionService:
             status_udf = udf(determine_status, StringType())
 
             # Chọn các cột cần lưu và xử lý kết quả
+            # Lưu ý: `prediction` (output model) được ghi vào DB
+            # frontend dùng `prediction` để hiển thị % tắc
             final_result = predictions.withColumn(
                 "prediction",
                 col("prediction").cast("double")
@@ -283,6 +285,8 @@ class SparkPredictionService:
             )
 
             # Ghi xuống MongoDB (Collection predictions)
+            # Lưu ý: chỉ lưu `prediction` không lưu congestion_level
+            # (congestion_level từ traffic_data; prediction từ model)
             final_result.write \
                 .format("mongo") \
                 .mode("append") \
@@ -297,7 +301,9 @@ class SparkPredictionService:
 
     def start(self):
         """Chạy định kỳ"""
-        logger.info("Starting Spark Prediction Service (predictions interval: 5s, training interval: 60s)...")
+        msg = ("Starting Spark Prediction Service "
+               "(predictions: 5s, training: 60s)...")
+        logger.info(msg)
         scheduler = BackgroundScheduler()
         # Run predictions frequently
         scheduler.add_job(self.make_predictions, 'interval', seconds=5)
