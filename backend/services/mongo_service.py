@@ -1,17 +1,18 @@
 from pymongo import MongoClient, DESCENDING
-from datetime import datetime, timedelta
 import logging
-from backend.config import Config
 
 logger = logging.getLogger(__name__)
+
 
 class MongoService:
     def __init__(self):
         try:
-            # Kết nối MongoDB 
-            self.client = MongoClient('mongodb://root:password@localhost:27017/')
+            # Kết nối MongoDB
+            uri = 'mongodb://root:password@localhost:27017/'
+            self.client = MongoClient(uri)
             self.db = self.client['traffic_db']
-            self.collection = self.db['traffic_data']
+            # Read from 'predictions' (written by Spark with congestion_status)
+            self.collection = self.db['predictions']
             logger.info(" MongoDB Connected via Service")
         except Exception as e:
             logger.error(f" MongoDB Connection Failed: {e}")
@@ -69,9 +70,18 @@ class MongoService:
             current_data = self.get_latest_predictions(minutes=10)
             
             total = len(current_data)
-            danger = sum(1 for x in current_data if x.get('congestion_status') == 'NGUY HIỂM')
-            warning = sum(1 for x in current_data if x.get('congestion_status') == 'TẮC')
-            safe = sum(1 for x in current_data if x.get('congestion_status') == 'THÔNG THOÁNG')
+            danger = sum(
+                1 for x in current_data
+                if x.get('congestion_status') == 'NGUY HIỂM'
+            )
+            warning = sum(
+                1 for x in current_data
+                if x.get('congestion_status') == 'TẮC'
+            )
+            safe = sum(
+                1 for x in current_data
+                if x.get('congestion_status') == 'THÔNG THOÁNG'
+            )
             
             return {
                 "total": total,
@@ -99,5 +109,6 @@ class MongoService:
 
     def get_all_roads(self):
         return self.collection.distinct('road_id')
+
 
 mongo_service = MongoService()

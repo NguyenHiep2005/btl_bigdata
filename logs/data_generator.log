@@ -3337,4 +3337,1688 @@
 2025-12-28 17:08:50,471 - INFO - 🟡 Bà Triệu: 13km/h (Gốc: 16) | Tắc: 67%
 2025-12-28 17:08:50,472 - INFO - ✓ Đã lưu 5 bản ghi mới.
 2025-12-28 17:08:50,472 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2025-12-28 17:08:52 +07)" executed successfully
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              2026-01-05 22:31:11,120 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-05 22:31:11,135 - INFO - MongoDB connected thành công!
+2026-01-05 22:31:11,135 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-05 22:31:11,137 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:31:12,363 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 20) | Tắc: 42%
+2026-01-05 22:31:13,031 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 22:31:13,703 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 22) | Tắc: 52%
+2026-01-05 22:31:14,379 - INFO - 🟢 Đường Láng: 30km/h (Gốc: 31) | Tắc: 25%
+2026-01-05 22:31:15,065 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-05 22:31:15,065 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:31:15,093 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-05 22:31:15,094 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-05 22:31:15,095 - INFO - Scheduler started
+2026-01-05 22:31:18,594 - INFO -  Đang dừng chương trình...
+2026-01-05 22:31:18,595 - INFO - Scheduler has been shut down
+2026-01-05 22:32:01,115 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-05 22:32:01,128 - INFO - MongoDB connected thành công!
+2026-01-05 22:32:01,128 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-05 22:32:01,129 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:32:01,818 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 20) | Tắc: 44%
+2026-01-05 22:32:02,474 - INFO - 🟢 Phố Huế: 30km/h (Gốc: 27) | Tắc: 25%
+2026-01-05 22:32:03,166 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 21) | Tắc: 52%
+2026-01-05 22:32:03,873 - INFO - 🟢 Đường Láng: 29km/h (Gốc: 31) | Tắc: 27%
+2026-01-05 22:32:04,627 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-05 22:32:04,629 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:32:04,649 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-05 22:32:04,650 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-05 22:32:04,650 - INFO - Scheduler started
+2026-01-05 22:32:09,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:09 +07)" (scheduled at 2026-01-05 22:32:09.649580+07:00)
+2026-01-05 22:32:09,652 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:32:10,346 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 20) | Tắc: 42%
+2026-01-05 22:32:11,038 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 22:32:11,703 - INFO - 🟡 Tây Sơn: 18km/h (Gốc: 21) | Tắc: 55%
+2026-01-05 22:32:12,377 - INFO - 🟢 Đường Láng: 29km/h (Gốc: 31) | Tắc: 27%
+2026-01-05 22:32:13,824 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-05 22:32:13,828 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:32:13,828 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:14 +07)" executed successfully
+2026-01-05 22:32:14,654 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:19 +07)" (scheduled at 2026-01-05 22:32:14.649580+07:00)
+2026-01-05 22:32:14,654 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:32:15,379 - INFO - 🟡 Đinh Tiên Hoàng: 21km/h (Gốc: 20) | Tắc: 47%
+2026-01-05 22:32:16,042 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 22:32:16,715 - INFO - 🟡 Tây Sơn: 21km/h (Gốc: 21) | Tắc: 47%
+2026-01-05 22:32:17,405 - INFO - 🟢 Đường Láng: 29km/h (Gốc: 31) | Tắc: 27%
+2026-01-05 22:32:18,061 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-05 22:32:18,061 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:32:18,061 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:19 +07)" executed successfully
+2026-01-05 22:32:19,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:24 +07)" (scheduled at 2026-01-05 22:32:19.649580+07:00)
+2026-01-05 22:32:19,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:32:20,327 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 20) | Tắc: 44%
+2026-01-05 22:32:20,986 - INFO - 🟢 Phố Huế: 26km/h (Gốc: 27) | Tắc: 35%
+2026-01-05 22:32:21,648 - INFO - 🟡 Tây Sơn: 23km/h (Gốc: 20) | Tắc: 42%
+2026-01-05 22:32:22,321 - INFO - 🟢 Đường Láng: 32km/h (Gốc: 30) | Tắc: 19%
+2026-01-05 22:32:22,997 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-05 22:32:22,997 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:32:22,997 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:24 +07)" executed successfully
+2026-01-05 22:32:24,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:29 +07)" (scheduled at 2026-01-05 22:32:24.649580+07:00)
+2026-01-05 22:32:24,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:32:25,363 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 20) | Tắc: 44%
+2026-01-05 22:32:26,025 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 22:32:26,698 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 20) | Tắc: 52%
+2026-01-05 22:32:27,370 - INFO - 🟢 Đường Láng: 31km/h (Gốc: 30) | Tắc: 22%
+2026-01-05 22:32:28,030 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-05 22:32:28,030 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:32:28,030 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:29 +07)" executed successfully
+2026-01-05 22:32:29,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:34 +07)" (scheduled at 2026-01-05 22:32:29.649580+07:00)
+2026-01-05 22:32:29,652 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:32:30,317 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 20) | Tắc: 52%
+2026-01-05 22:32:31,001 - INFO - 🟡 Phố Huế: 24km/h (Gốc: 27) | Tắc: 40%
+2026-01-05 22:32:31,663 - INFO - 🟡 Tây Sơn: 21km/h (Gốc: 20) | Tắc: 47%
+2026-01-05 22:32:32,350 - INFO - 🟢 Đường Láng: 27km/h (Gốc: 30) | Tắc: 32%
+2026-01-05 22:32:33,019 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-05 22:32:33,020 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:32:33,020 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:34 +07)" executed successfully
+2026-01-05 22:32:34,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:39 +07)" (scheduled at 2026-01-05 22:32:34.649580+07:00)
+2026-01-05 22:32:34,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:32:35,313 - INFO - 🟡 Đinh Tiên Hoàng: 21km/h (Gốc: 20) | Tắc: 47%
+2026-01-05 22:32:36,052 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 22:32:36,730 - INFO - 🟡 Tây Sơn: 18km/h (Gốc: 20) | Tắc: 55%
+2026-01-05 22:32:37,413 - INFO - 🟢 Đường Láng: 28km/h (Gốc: 30) | Tắc: 30%
+2026-01-05 22:32:38,073 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-05 22:32:38,073 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:32:38,073 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:39 +07)" executed successfully
+2026-01-05 22:32:39,652 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:44 +07)" (scheduled at 2026-01-05 22:32:39.649580+07:00)
+2026-01-05 22:32:39,653 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:32:40,330 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 20) | Tắc: 52%
+2026-01-05 22:32:40,991 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 22:32:41,661 - INFO - 🟡 Tây Sơn: 21km/h (Gốc: 20) | Tắc: 47%
+2026-01-05 22:32:42,360 - INFO - 🟢 Đường Láng: 29km/h (Gốc: 30) | Tắc: 27%
+2026-01-05 22:32:43,024 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-05 22:32:43,024 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:32:43,024 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:44 +07)" executed successfully
+2026-01-05 22:32:44,652 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:49 +07)" (scheduled at 2026-01-05 22:32:44.649580+07:00)
+2026-01-05 22:32:44,652 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:32:45,319 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 20) | Tắc: 42%
+2026-01-05 22:32:45,990 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 22:32:46,662 - INFO - 🟡 Tây Sơn: 21km/h (Gốc: 20) | Tắc: 47%
+2026-01-05 22:32:47,325 - INFO - 🟢 Đường Láng: 27km/h (Gốc: 30) | Tắc: 32%
+2026-01-05 22:32:47,987 - INFO - 🟢 Bà Triệu: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-05 22:32:47,988 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:32:47,988 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:49 +07)" executed successfully
+2026-01-05 22:32:49,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:54 +07)" (scheduled at 2026-01-05 22:32:49.649580+07:00)
+2026-01-05 22:32:49,650 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:32:50,316 - INFO - 🟡 Đinh Tiên Hoàng: 21km/h (Gốc: 20) | Tắc: 47%
+2026-01-05 22:32:50,983 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 22:32:51,644 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 21) | Tắc: 52%
+2026-01-05 22:32:52,305 - INFO - 🟢 Đường Láng: 33km/h (Gốc: 31) | Tắc: 17%
+2026-01-05 22:32:52,977 - INFO - 🟡 Bà Triệu: 24km/h (Gốc: 25) | Tắc: 40%
+2026-01-05 22:32:52,977 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:32:52,977 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:54 +07)" executed successfully
+2026-01-05 22:32:54,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:59 +07)" (scheduled at 2026-01-05 22:32:54.649580+07:00)
+2026-01-05 22:32:54,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:32:55,322 - INFO - 🟡 Đinh Tiên Hoàng: 20km/h (Gốc: 19) | Tắc: 50%
+2026-01-05 22:32:55,986 - INFO - 🟡 Phố Huế: 24km/h (Gốc: 27) | Tắc: 40%
+2026-01-05 22:32:56,646 - INFO - 🟡 Tây Sơn: 24km/h (Gốc: 21) | Tắc: 40%
+2026-01-05 22:32:57,333 - INFO - 🟢 Đường Láng: 31km/h (Gốc: 31) | Tắc: 22%
+2026-01-05 22:32:58,005 - INFO - 🟢 Bà Triệu: 25km/h (Gốc: 25) | Tắc: 37%
+2026-01-05 22:32:58,006 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:32:58,006 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:32:59 +07)" executed successfully
+2026-01-05 22:32:59,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:04 +07)" (scheduled at 2026-01-05 22:32:59.649580+07:00)
+2026-01-05 22:32:59,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:00,343 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 19) | Tắc: 52%
+2026-01-05 22:33:01,000 - INFO - 🟢 Phố Huế: 26km/h (Gốc: 27) | Tắc: 35%
+2026-01-05 22:33:01,665 - INFO - 🟡 Tây Sơn: 23km/h (Gốc: 21) | Tắc: 42%
+2026-01-05 22:33:02,328 - INFO - 🟢 Đường Láng: 32km/h (Gốc: 31) | Tắc: 19%
+2026-01-05 22:33:03,009 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-05 22:33:03,009 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:03,010 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:04 +07)" executed successfully
+2026-01-05 22:33:04,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:09 +07)" (scheduled at 2026-01-05 22:33:04.649580+07:00)
+2026-01-05 22:33:04,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:05,327 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 19) | Tắc: 44%
+2026-01-05 22:33:05,994 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 22:33:06,661 - INFO - 🟡 Tây Sơn: 20km/h (Gốc: 21) | Tắc: 50%
+2026-01-05 22:33:07,315 - INFO - 🟢 Đường Láng: 30km/h (Gốc: 31) | Tắc: 25%
+2026-01-05 22:33:07,990 - INFO - 🟢 Bà Triệu: 25km/h (Gốc: 25) | Tắc: 37%
+2026-01-05 22:33:07,990 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:07,991 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:09 +07)" executed successfully
+2026-01-05 22:33:09,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:14 +07)" (scheduled at 2026-01-05 22:33:09.649580+07:00)
+2026-01-05 22:33:09,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:10,313 - INFO - 🟡 Đinh Tiên Hoàng: 20km/h (Gốc: 19) | Tắc: 50%
+2026-01-05 22:33:11,022 - INFO - 🟢 Phố Huế: 27km/h (Gốc: 27) | Tắc: 32%
+2026-01-05 22:33:11,683 - INFO - 🟡 Tây Sơn: 18km/h (Gốc: 21) | Tắc: 55%
+2026-01-05 22:33:12,358 - INFO - 🟢 Đường Láng: 33km/h (Gốc: 31) | Tắc: 17%
+2026-01-05 22:33:13,022 - INFO - 🟡 Bà Triệu: 24km/h (Gốc: 25) | Tắc: 40%
+2026-01-05 22:33:13,023 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:13,023 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:14 +07)" executed successfully
+2026-01-05 22:33:14,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:19 +07)" (scheduled at 2026-01-05 22:33:14.649580+07:00)
+2026-01-05 22:33:14,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:15,374 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 19) | Tắc: 44%
+2026-01-05 22:33:16,041 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 22:33:16,708 - INFO - 🟡 Tây Sơn: 22km/h (Gốc: 21) | Tắc: 44%
+2026-01-05 22:33:17,370 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 31) | Tắc: 15%
+2026-01-05 22:33:18,030 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-05 22:33:18,030 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:18,030 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:19 +07)" executed successfully
+2026-01-05 22:33:19,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:24 +07)" (scheduled at 2026-01-05 22:33:19.649580+07:00)
+2026-01-05 22:33:19,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:20,327 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 19) | Tắc: 55%
+2026-01-05 22:33:21,003 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 22:33:21,671 - INFO - 🟡 Tây Sơn: 22km/h (Gốc: 21) | Tắc: 44%
+2026-01-05 22:33:22,347 - INFO - 🟢 Đường Láng: 32km/h (Gốc: 31) | Tắc: 19%
+2026-01-05 22:33:23,021 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-05 22:33:23,023 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:23,023 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:24 +07)" executed successfully
+2026-01-05 22:33:24,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:29 +07)" (scheduled at 2026-01-05 22:33:24.649580+07:00)
+2026-01-05 22:33:24,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:25,982 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 19) | Tắc: 55%
+2026-01-05 22:33:26,654 - INFO - 🟢 Phố Huế: 26km/h (Gốc: 27) | Tắc: 35%
+2026-01-05 22:33:27,315 - INFO - 🟡 Tây Sơn: 22km/h (Gốc: 21) | Tắc: 44%
+2026-01-05 22:33:27,974 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 31) | Tắc: 15%
+2026-01-05 22:33:28,649 - INFO - 🟢 Bà Triệu: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-05 22:33:28,649 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:28,649 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:29 +07)" executed successfully
+2026-01-05 22:33:29,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:34 +07)" (scheduled at 2026-01-05 22:33:29.649580+07:00)
+2026-01-05 22:33:29,652 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:30,312 - INFO - 🟡 Đinh Tiên Hoàng: 16km/h (Gốc: 19) | Tắc: 60%
+2026-01-05 22:33:30,993 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 22:33:31,657 - INFO - 🟡 Tây Sơn: 24km/h (Gốc: 21) | Tắc: 40%
+2026-01-05 22:33:32,383 - INFO - 🟢 Đường Láng: 33km/h (Gốc: 31) | Tắc: 17%
+2026-01-05 22:33:33,050 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-05 22:33:33,050 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:33,050 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:34 +07)" executed successfully
+2026-01-05 22:33:34,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:39 +07)" (scheduled at 2026-01-05 22:33:34.649580+07:00)
+2026-01-05 22:33:34,650 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:35,323 - INFO - 🟡 Đinh Tiên Hoàng: 16km/h (Gốc: 19) | Tắc: 60%
+2026-01-05 22:33:35,998 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 22:33:37,076 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 21) | Tắc: 52%
+2026-01-05 22:33:37,808 - INFO - 🟢 Đường Láng: 31km/h (Gốc: 31) | Tắc: 22%
+2026-01-05 22:33:38,565 - INFO - 🟢 Bà Triệu: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-05 22:33:38,566 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:38,567 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:39 +07)" executed successfully
+2026-01-05 22:33:39,652 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:44 +07)" (scheduled at 2026-01-05 22:33:39.649580+07:00)
+2026-01-05 22:33:39,653 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:40,324 - INFO - 🟡 Đinh Tiên Hoàng: 20km/h (Gốc: 19) | Tắc: 50%
+2026-01-05 22:33:41,011 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 22:33:41,715 - INFO - 🟡 Tây Sơn: 20km/h (Gốc: 21) | Tắc: 50%
+2026-01-05 22:33:42,403 - INFO - 🟢 Đường Láng: 30km/h (Gốc: 31) | Tắc: 25%
+2026-01-05 22:33:43,079 - INFO - 🟢 Bà Triệu: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-05 22:33:43,079 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:43,080 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:44 +07)" executed successfully
+2026-01-05 22:33:44,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:49 +07)" (scheduled at 2026-01-05 22:33:44.649580+07:00)
+2026-01-05 22:33:44,652 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:45,325 - INFO - 🟡 Đinh Tiên Hoàng: 21km/h (Gốc: 19) | Tắc: 47%
+2026-01-05 22:33:45,991 - INFO - 🟢 Phố Huế: 26km/h (Gốc: 27) | Tắc: 35%
+2026-01-05 22:33:46,651 - INFO - 🟡 Tây Sơn: 21km/h (Gốc: 21) | Tắc: 47%
+2026-01-05 22:33:47,330 - INFO - 🟢 Đường Láng: 29km/h (Gốc: 31) | Tắc: 27%
+2026-01-05 22:33:47,994 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-05 22:33:47,994 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:47,994 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:49 +07)" executed successfully
+2026-01-05 22:33:49,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:54 +07)" (scheduled at 2026-01-05 22:33:49.649580+07:00)
+2026-01-05 22:33:49,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:50,326 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 19) | Tắc: 52%
+2026-01-05 22:33:50,995 - INFO - 🟡 Phố Huế: 24km/h (Gốc: 27) | Tắc: 40%
+2026-01-05 22:33:51,661 - INFO - 🟡 Tây Sơn: 23km/h (Gốc: 21) | Tắc: 42%
+2026-01-05 22:33:52,327 - INFO - 🟢 Đường Láng: 29km/h (Gốc: 31) | Tắc: 27%
+2026-01-05 22:33:53,006 - INFO - 🟢 Bà Triệu: 25km/h (Gốc: 25) | Tắc: 37%
+2026-01-05 22:33:53,007 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:53,007 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:54 +07)" executed successfully
+2026-01-05 22:33:54,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:59 +07)" (scheduled at 2026-01-05 22:33:54.649580+07:00)
+2026-01-05 22:33:54,650 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:33:55,314 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 19) | Tắc: 52%
+2026-01-05 22:33:55,978 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 22:33:56,661 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 21) | Tắc: 52%
+2026-01-05 22:33:57,336 - INFO - 🟢 Đường Láng: 32km/h (Gốc: 31) | Tắc: 19%
+2026-01-05 22:33:57,992 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-05 22:33:57,992 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:33:57,992 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:33:59 +07)" executed successfully
+2026-01-05 22:33:59,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:04 +07)" (scheduled at 2026-01-05 22:33:59.649580+07:00)
+2026-01-05 22:33:59,650 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:34:00,320 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 19) | Tắc: 55%
+2026-01-05 22:34:00,993 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 22:34:01,659 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 20) | Tắc: 52%
+2026-01-05 22:34:02,327 - INFO - 🟢 Đường Láng: 30km/h (Gốc: 31) | Tắc: 25%
+2026-01-05 22:34:03,010 - INFO - 🟢 Bà Triệu: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-05 22:34:03,010 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:34:03,010 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:04 +07)" executed successfully
+2026-01-05 22:34:04,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:09 +07)" (scheduled at 2026-01-05 22:34:04.649580+07:00)
+2026-01-05 22:34:04,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:34:05,333 - INFO - 🟡 Đinh Tiên Hoàng: 17km/h (Gốc: 19) | Tắc: 57%
+2026-01-05 22:34:06,001 - INFO - 🟡 Phố Huế: 24km/h (Gốc: 27) | Tắc: 40%
+2026-01-05 22:34:06,675 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 20) | Tắc: 52%
+2026-01-05 22:34:07,345 - INFO - 🟢 Đường Láng: 32km/h (Gốc: 31) | Tắc: 19%
+2026-01-05 22:34:08,012 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-05 22:34:08,012 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:34:08,012 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:09 +07)" executed successfully
+2026-01-05 22:34:09,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:14 +07)" (scheduled at 2026-01-05 22:34:09.649580+07:00)
+2026-01-05 22:34:09,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:34:10,315 - INFO - 🟡 Đinh Tiên Hoàng: 20km/h (Gốc: 19) | Tắc: 50%
+2026-01-05 22:34:10,987 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 22:34:11,671 - INFO - 🟡 Tây Sơn: 22km/h (Gốc: 20) | Tắc: 44%
+2026-01-05 22:34:12,342 - INFO - 🟢 Đường Láng: 30km/h (Gốc: 31) | Tắc: 25%
+2026-01-05 22:34:13,004 - INFO - 🟢 Bà Triệu: 26km/h (Gốc: 25) | Tắc: 35%
+2026-01-05 22:34:13,004 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:34:13,004 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:14 +07)" executed successfully
+2026-01-05 22:34:14,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:19 +07)" (scheduled at 2026-01-05 22:34:14.649580+07:00)
+2026-01-05 22:34:14,651 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:34:15,323 - INFO - 🟡 Đinh Tiên Hoàng: 17km/h (Gốc: 19) | Tắc: 57%
+2026-01-05 22:34:15,992 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 22:34:16,658 - INFO - 🟡 Tây Sơn: 18km/h (Gốc: 20) | Tắc: 55%
+2026-01-05 22:34:17,331 - INFO - 🟢 Đường Láng: 32km/h (Gốc: 31) | Tắc: 19%
+2026-01-05 22:34:18,003 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-05 22:34:18,003 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:34:18,003 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:19 +07)" executed successfully
+2026-01-05 22:34:19,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:24 +07)" (scheduled at 2026-01-05 22:34:19.649580+07:00)
+2026-01-05 22:34:19,652 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:34:20,326 - INFO - 🟡 Đinh Tiên Hoàng: 17km/h (Gốc: 19) | Tắc: 57%
+2026-01-05 22:34:20,993 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 22:34:21,664 - INFO - 🟡 Tây Sơn: 23km/h (Gốc: 20) | Tắc: 42%
+2026-01-05 22:34:22,333 - INFO - 🟢 Đường Láng: 31km/h (Gốc: 31) | Tắc: 22%
+2026-01-05 22:34:23,014 - INFO - 🟢 Bà Triệu: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-05 22:34:23,014 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:34:23,014 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:24 +07)" executed successfully
+2026-01-05 22:34:24,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:29 +07)" (scheduled at 2026-01-05 22:34:24.649580+07:00)
+2026-01-05 22:34:24,650 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:34:25,317 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 19) | Tắc: 55%
+2026-01-05 22:34:25,991 - INFO - 🟢 Phố Huế: 26km/h (Gốc: 27) | Tắc: 35%
+2026-01-05 22:34:27,076 - INFO - 🟡 Tây Sơn: 20km/h (Gốc: 20) | Tắc: 50%
+2026-01-05 22:34:27,738 - INFO - 🟢 Đường Láng: 32km/h (Gốc: 31) | Tắc: 19%
+2026-01-05 22:34:28,414 - INFO - 🟢 Bà Triệu: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-05 22:34:28,415 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:34:28,415 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:29 +07)" executed successfully
+2026-01-05 22:34:29,651 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:34 +07)" (scheduled at 2026-01-05 22:34:29.649580+07:00)
+2026-01-05 22:34:29,652 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:34:30,323 - INFO - 🟡 Đinh Tiên Hoàng: 16km/h (Gốc: 18) | Tắc: 60%
+2026-01-05 22:34:30,993 - INFO - 🟢 Phố Huế: 30km/h (Gốc: 27) | Tắc: 25%
+2026-01-05 22:34:31,673 - INFO - 🟡 Tây Sơn: 20km/h (Gốc: 21) | Tắc: 50%
+2026-01-05 22:34:32,327 - INFO - 🟢 Đường Láng: 37km/h (Gốc: 36) | Tắc: 7%
+2026-01-05 22:34:33,018 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-05 22:34:33,019 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:34:33,019 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:34 +07)" executed successfully
+2026-01-05 22:34:34,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:39 +07)" (scheduled at 2026-01-05 22:34:34.649580+07:00)
+2026-01-05 22:34:34,650 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:34:35,316 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 18) | Tắc: 52%
+2026-01-05 22:34:35,983 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 22:34:36,652 - INFO - 🟡 Tây Sơn: 24km/h (Gốc: 21) | Tắc: 40%
+2026-01-05 22:34:37,338 - INFO - 🟢 Đường Láng: 37km/h (Gốc: 36) | Tắc: 7%
+2026-01-05 22:34:38,003 - INFO - 🟡 Bà Triệu: 24km/h (Gốc: 25) | Tắc: 40%
+2026-01-05 22:34:38,003 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:34:38,003 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:39 +07)" executed successfully
+2026-01-05 22:34:39,650 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:44 +07)" (scheduled at 2026-01-05 22:34:39.649580+07:00)
+2026-01-05 22:34:39,650 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:34:40,325 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 18) | Tắc: 55%
+2026-01-05 22:34:40,998 - INFO - 🟢 Phố Huế: 30km/h (Gốc: 27) | Tắc: 25%
+2026-01-05 22:34:41,657 - INFO - 🟡 Tây Sơn: 21km/h (Gốc: 21) | Tắc: 47%
+2026-01-05 22:34:42,316 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 36) | Tắc: 15%
+2026-01-05 22:34:42,984 - INFO - 🟢 Bà Triệu: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-05 22:34:42,984 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:34:42,984 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:34:44 +07)" executed successfully
+2026-01-05 22:34:44,554 - INFO -  Đang dừng chương trình...
+2026-01-05 22:34:44,554 - INFO - Scheduler has been shut down
+2026-01-05 22:38:23,487 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-05 22:38:23,499 - INFO - MongoDB connected thành công!
+2026-01-05 22:38:23,500 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-05 22:38:23,501 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:38:24,584 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 24) | Tắc: 97%
+2026-01-05 22:38:25,246 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 27) | Tắc: 97%
+2026-01-05 22:38:25,919 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 21) | Tắc: 97%
+2026-01-05 22:38:26,571 - INFO - 🟡 Đường Láng: 15km/h (Gốc: 36) | Tắc: 62%
+2026-01-05 22:38:27,244 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 25) | Tắc: 97%
+2026-01-05 22:38:27,244 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:38:27,260 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-05 22:38:27,262 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-05 22:38:27,262 - INFO - Scheduler started
+2026-01-05 22:38:32,262 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:38:32 +07)" (scheduled at 2026-01-05 22:38:32.260851+07:00)
+2026-01-05 22:38:32,262 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:38:32,922 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 24) | Tắc: 97%
+2026-01-05 22:38:33,591 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 27) | Tắc: 97%
+2026-01-05 22:38:34,268 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 21) | Tắc: 97%
+2026-01-05 22:38:35,309 - INFO - 🟡 Đường Láng: 14km/h (Gốc: 36) | Tắc: 65%
+2026-01-05 22:38:35,972 - INFO - 🔴 Bà Triệu: 2km/h (Gốc: 25) | Tắc: 95%
+2026-01-05 22:38:35,972 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:38:35,972 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:38:37 +07)" executed successfully
+2026-01-05 22:38:37,263 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:38:42 +07)" (scheduled at 2026-01-05 22:38:37.260851+07:00)
+2026-01-05 22:38:37,264 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:38:37,922 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 24) | Tắc: 97%
+2026-01-05 22:38:38,595 - INFO - 🔴 Phố Huế: 3km/h (Gốc: 27) | Tắc: 92%
+2026-01-05 22:38:39,269 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 21) | Tắc: 97%
+2026-01-05 22:38:39,924 - INFO - 🔴 Đường Láng: 10km/h (Gốc: 36) | Tắc: 75%
+2026-01-05 22:38:40,586 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 25) | Tắc: 97%
+2026-01-05 22:38:40,587 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:38:40,587 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:38:42 +07)" executed successfully
+2026-01-05 22:38:42,262 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:38:47 +07)" (scheduled at 2026-01-05 22:38:42.260851+07:00)
+2026-01-05 22:38:42,262 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:38:42,924 - INFO - 🔴 Đinh Tiên Hoàng: 2km/h (Gốc: 24) | Tắc: 95%
+2026-01-05 22:38:43,585 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 27) | Tắc: 97%
+2026-01-05 22:38:44,250 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 21) | Tắc: 97%
+2026-01-05 22:38:44,911 - INFO - 🔴 Đường Láng: 10km/h (Gốc: 36) | Tắc: 75%
+2026-01-05 22:38:45,595 - INFO - 🔴 Bà Triệu: 4km/h (Gốc: 25) | Tắc: 90%
+2026-01-05 22:38:45,595 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:38:45,596 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:38:47 +07)" executed successfully
+2026-01-05 22:38:47,262 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:38:52 +07)" (scheduled at 2026-01-05 22:38:47.260851+07:00)
+2026-01-05 22:38:47,262 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:38:47,943 - INFO - 🔴 Đinh Tiên Hoàng: 4km/h (Gốc: 24) | Tắc: 90%
+2026-01-05 22:38:48,616 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 27) | Tắc: 97%
+2026-01-05 22:38:49,292 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 21) | Tắc: 97%
+2026-01-05 22:38:49,952 - INFO - 🔴 Đường Láng: 8km/h (Gốc: 36) | Tắc: 80%
+2026-01-05 22:38:50,612 - INFO - 🔴 Bà Triệu: 5km/h (Gốc: 25) | Tắc: 87%
+2026-01-05 22:38:50,613 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:38:50,613 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:38:52 +07)" executed successfully
+2026-01-05 22:38:51,025 - INFO -  Đang dừng chương trình...
+2026-01-05 22:38:51,026 - INFO - Scheduler has been shut down
+2026-01-05 22:42:07,626 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-05 22:42:07,640 - INFO - MongoDB connected thành công!
+2026-01-05 22:42:07,640 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-05 22:42:07,641 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:42:08,678 - INFO - 🔴 Đinh Tiên Hoàng: 6km/h (Gốc: 24) | Tắc: 85%
+2026-01-05 22:42:09,343 - INFO - 🟡 Phố Huế: 20km/h (Gốc: 22) | Tắc: 50%
+2026-01-05 22:42:10,021 - INFO - 🔴 Tây Sơn: 5km/h (Gốc: 24) | Tắc: 87%
+2026-01-05 22:42:10,725 - INFO - 🟢 Đường Láng: 26km/h (Gốc: 31) | Tắc: 35%
+2026-01-05 22:42:11,393 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 25) | Tắc: 97%
+2026-01-05 22:42:11,393 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:42:11,407 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-05 22:42:11,408 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-05 22:42:11,408 - INFO - Scheduler started
+2026-01-05 22:42:16,409 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:16 +07)" (scheduled at 2026-01-05 22:42:16.407482+07:00)
+2026-01-05 22:42:16,409 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:42:17,598 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 24) | Tắc: 44%
+2026-01-05 22:42:18,270 - INFO - 🔴 Phố Huế: 4km/h (Gốc: 22) | Tắc: 90%
+2026-01-05 22:42:18,929 - INFO - 🟢 Tây Sơn: 27km/h (Gốc: 24) | Tắc: 32%
+2026-01-05 22:42:19,595 - INFO - 🟢 Đường Láng: 26km/h (Gốc: 31) | Tắc: 35%
+2026-01-05 22:42:20,262 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-05 22:42:20,262 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:42:20,262 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:21 +07)" executed successfully
+2026-01-05 22:42:21,408 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:26 +07)" (scheduled at 2026-01-05 22:42:21.407482+07:00)
+2026-01-05 22:42:21,408 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:42:22,068 - INFO - 🟡 Đinh Tiên Hoàng: 24km/h (Gốc: 24) | Tắc: 40%
+2026-01-05 22:42:22,734 - INFO - 🟢 Phố Huế: 26km/h (Gốc: 22) | Tắc: 35%
+2026-01-05 22:42:23,401 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 24) | Tắc: 52%
+2026-01-05 22:42:24,066 - INFO - 🔴 Đường Láng: 1km/h (Gốc: 31) | Tắc: 97%
+2026-01-05 22:42:24,720 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-05 22:42:24,721 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:42:24,721 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:26 +07)" executed successfully
+2026-01-05 22:42:26,408 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:31 +07)" (scheduled at 2026-01-05 22:42:26.407482+07:00)
+2026-01-05 22:42:26,409 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:42:27,069 - INFO - 🟢 Đinh Tiên Hoàng: 29km/h (Gốc: 24) | Tắc: 27%
+2026-01-05 22:42:27,729 - INFO - 🟡 Phố Huế: 20km/h (Gốc: 22) | Tắc: 50%
+2026-01-05 22:42:28,396 - INFO - 🟢 Tây Sơn: 28km/h (Gốc: 24) | Tắc: 30%
+2026-01-05 22:42:29,058 - INFO - 🟡 Đường Láng: 18km/h (Gốc: 31) | Tắc: 55%
+2026-01-05 22:42:29,723 - INFO - 🟢 Bà Triệu: 29km/h (Gốc: 25) | Tắc: 27%
+2026-01-05 22:42:29,724 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:42:29,724 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:31 +07)" executed successfully
+2026-01-05 22:42:31,409 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:36 +07)" (scheduled at 2026-01-05 22:42:31.407482+07:00)
+2026-01-05 22:42:31,409 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:42:32,064 - INFO - 🔴 Đinh Tiên Hoàng: 4km/h (Gốc: 24) | Tắc: 90%
+2026-01-05 22:42:32,721 - INFO - 🟡 Phố Huế: 23km/h (Gốc: 22) | Tắc: 42%
+2026-01-05 22:42:33,382 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 24) | Tắc: 52%
+2026-01-05 22:42:34,048 - INFO - 🔴 Đường Láng: 11km/h (Gốc: 31) | Tắc: 72%
+2026-01-05 22:42:34,704 - INFO - 🟢 Bà Triệu: 29km/h (Gốc: 25) | Tắc: 27%
+2026-01-05 22:42:34,704 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:42:34,704 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:36 +07)" executed successfully
+2026-01-05 22:42:36,407 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:41 +07)" (scheduled at 2026-01-05 22:42:36.407482+07:00)
+2026-01-05 22:42:36,408 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:42:37,061 - INFO - 🟢 Đinh Tiên Hoàng: 28km/h (Gốc: 24) | Tắc: 30%
+2026-01-05 22:42:37,711 - INFO - 🟡 Phố Huế: 19km/h (Gốc: 22) | Tắc: 52%
+2026-01-05 22:42:38,365 - INFO - 🟡 Tây Sơn: 14km/h (Gốc: 24) | Tắc: 65%
+2026-01-05 22:42:39,022 - INFO - 🔴 Đường Láng: 1km/h (Gốc: 31) | Tắc: 97%
+2026-01-05 22:42:39,695 - INFO - 🟢 Bà Triệu: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-05 22:42:39,695 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:42:39,695 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:41 +07)" executed successfully
+2026-01-05 22:42:41,408 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:46 +07)" (scheduled at 2026-01-05 22:42:41.407482+07:00)
+2026-01-05 22:42:41,409 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:42:42,076 - INFO - 🟢 Đinh Tiên Hoàng: 26km/h (Gốc: 24) | Tắc: 35%
+2026-01-05 22:42:42,740 - INFO - 🟡 Phố Huế: 21km/h (Gốc: 22) | Tắc: 47%
+2026-01-05 22:42:43,411 - INFO - 🟡 Tây Sơn: 22km/h (Gốc: 24) | Tắc: 44%
+2026-01-05 22:42:44,069 - INFO - 🟢 Đường Láng: 33km/h (Gốc: 31) | Tắc: 17%
+2026-01-05 22:42:44,729 - INFO - 🟡 Bà Triệu: 20km/h (Gốc: 25) | Tắc: 50%
+2026-01-05 22:42:44,729 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:42:44,729 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:46 +07)" executed successfully
+2026-01-05 22:42:46,408 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:51 +07)" (scheduled at 2026-01-05 22:42:46.407482+07:00)
+2026-01-05 22:42:46,408 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:42:47,079 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 24) | Tắc: 44%
+2026-01-05 22:42:47,750 - INFO - 🟡 Phố Huế: 21km/h (Gốc: 22) | Tắc: 47%
+2026-01-05 22:42:48,430 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 24) | Tắc: 97%
+2026-01-05 22:42:49,112 - INFO - 🟡 Đường Láng: 18km/h (Gốc: 31) | Tắc: 55%
+2026-01-05 22:42:49,805 - INFO - 🟢 Bà Triệu: 30km/h (Gốc: 25) | Tắc: 25%
+2026-01-05 22:42:49,805 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:42:49,805 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:51 +07)" executed successfully
+2026-01-05 22:42:51,408 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:56 +07)" (scheduled at 2026-01-05 22:42:51.407482+07:00)
+2026-01-05 22:42:51,409 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:42:52,062 - INFO - 🟡 Đinh Tiên Hoàng: 16km/h (Gốc: 17) | Tắc: 60%
+2026-01-05 22:42:52,736 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 22) | Tắc: 97%
+2026-01-05 22:42:53,390 - INFO - 🟡 Tây Sơn: 17km/h (Gốc: 20) | Tắc: 57%
+2026-01-05 22:42:54,035 - INFO - 🟢 Đường Láng: 25km/h (Gốc: 30) | Tắc: 37%
+2026-01-05 22:42:54,686 - INFO - 🔴 Bà Triệu: 7km/h (Gốc: 25) | Tắc: 82%
+2026-01-05 22:42:54,686 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:42:54,686 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:42:56 +07)" executed successfully
+2026-01-05 22:42:56,408 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:43:01 +07)" (scheduled at 2026-01-05 22:42:56.407482+07:00)
+2026-01-05 22:42:56,409 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:42:57,117 - INFO - 🟡 Đinh Tiên Hoàng: 17km/h (Gốc: 17) | Tắc: 57%
+2026-01-05 22:42:57,769 - INFO - 🟢 Phố Huế: 27km/h (Gốc: 22) | Tắc: 32%
+2026-01-05 22:42:58,469 - INFO - 🟢 Tây Sơn: 25km/h (Gốc: 20) | Tắc: 37%
+2026-01-05 22:42:59,139 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 30) | Tắc: 15%
+2026-01-05 22:42:59,796 - INFO - 🟡 Bà Triệu: 20km/h (Gốc: 25) | Tắc: 50%
+2026-01-05 22:42:59,797 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:42:59,797 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:43:01 +07)" executed successfully
+2026-01-05 22:43:01,409 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:43:06 +07)" (scheduled at 2026-01-05 22:43:01.407482+07:00)
+2026-01-05 22:43:01,409 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:43:02,068 - INFO - 🟡 Đinh Tiên Hoàng: 16km/h (Gốc: 17) | Tắc: 60%
+2026-01-05 22:43:02,742 - INFO - 🔴 Phố Huế: 10km/h (Gốc: 22) | Tắc: 75%
+2026-01-05 22:43:03,396 - INFO - 🟡 Tây Sơn: 18km/h (Gốc: 20) | Tắc: 55%
+2026-01-05 22:43:04,042 - INFO - 🟡 Đường Láng: 17km/h (Gốc: 30) | Tắc: 57%
+2026-01-05 22:43:04,727 - INFO - 🟡 Bà Triệu: 13km/h (Gốc: 25) | Tắc: 67%
+2026-01-05 22:43:04,728 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:43:04,729 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:43:06 +07)" executed successfully
+2026-01-05 22:43:06,409 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:43:11 +07)" (scheduled at 2026-01-05 22:43:06.407482+07:00)
+2026-01-05 22:43:06,411 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:43:07,060 - INFO - 🔴 Đinh Tiên Hoàng: 12km/h (Gốc: 17) | Tắc: 70%
+2026-01-05 22:43:07,731 - INFO - 🟡 Phố Huế: 18km/h (Gốc: 22) | Tắc: 55%
+2026-01-05 22:43:08,399 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 20) | Tắc: 97%
+2026-01-05 22:43:09,071 - INFO - 🟢 Đường Láng: 28km/h (Gốc: 30) | Tắc: 30%
+2026-01-05 22:43:09,732 - INFO - 🟢 Bà Triệu: 29km/h (Gốc: 25) | Tắc: 27%
+2026-01-05 22:43:09,732 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:43:09,732 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:43:11 +07)" executed successfully
+2026-01-05 22:43:10,910 - INFO -  Đang dừng chương trình...
+2026-01-05 22:43:10,910 - INFO - Scheduler has been shut down
+2026-01-05 22:59:30,351 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-05 22:59:30,362 - INFO - MongoDB connected thành công!
+2026-01-05 22:59:30,362 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-05 22:59:30,363 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:59:31,463 - INFO - 🟡 Đinh Tiên Hoàng: 15km/h (Gốc: 18) | Tắc: 62%
+2026-01-05 22:59:32,130 - INFO - 🟡 Phố Huế: 21km/h (Gốc: 21) | Tắc: 47%
+2026-01-05 22:59:32,793 - INFO - 🟡 Tây Sơn: 17km/h (Gốc: 22) | Tắc: 57%
+2026-01-05 22:59:33,443 - INFO - 🟡 Đường Láng: 17km/h (Gốc: 31) | Tắc: 57%
+2026-01-05 22:59:34,114 - INFO - 🟡 Bà Triệu: 24km/h (Gốc: 25) | Tắc: 40%
+2026-01-05 22:59:34,114 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:59:34,126 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-05 22:59:34,127 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-05 22:59:34,127 - INFO - Scheduler started
+2026-01-05 22:59:39,129 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:59:39 +07)" (scheduled at 2026-01-05 22:59:39.126720+07:00)
+2026-01-05 22:59:39,129 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:59:39,796 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 18) | Tắc: 44%
+2026-01-05 22:59:40,466 - INFO - 🟡 Phố Huế: 23km/h (Gốc: 21) | Tắc: 42%
+2026-01-05 22:59:41,196 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 22) | Tắc: 97%
+2026-01-05 22:59:41,861 - INFO - 🟢 Đường Láng: 27km/h (Gốc: 31) | Tắc: 32%
+2026-01-05 22:59:42,553 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-05 22:59:42,554 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:59:42,554 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:59:44 +07)" executed successfully
+2026-01-05 22:59:44,130 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:59:49 +07)" (scheduled at 2026-01-05 22:59:44.126720+07:00)
+2026-01-05 22:59:44,130 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:59:44,807 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 18) | Tắc: 52%
+2026-01-05 22:59:45,475 - INFO - 🟡 Phố Huế: 22km/h (Gốc: 21) | Tắc: 44%
+2026-01-05 22:59:46,145 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 22) | Tắc: 97%
+2026-01-05 22:59:46,793 - INFO - 🟢 Đường Láng: 30km/h (Gốc: 31) | Tắc: 25%
+2026-01-05 22:59:47,468 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-05 22:59:47,469 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:59:47,469 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:59:49 +07)" executed successfully
+2026-01-05 22:59:49,127 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:59:54 +07)" (scheduled at 2026-01-05 22:59:49.126720+07:00)
+2026-01-05 22:59:49,129 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:59:49,790 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-05 22:59:50,458 - INFO - 🟡 Phố Huế: 19km/h (Gốc: 21) | Tắc: 52%
+2026-01-05 22:59:51,130 - INFO - 🔴 Tây Sơn: 10km/h (Gốc: 22) | Tắc: 75%
+2026-01-05 22:59:51,810 - INFO - 🔴 Đường Láng: 1km/h (Gốc: 31) | Tắc: 97%
+2026-01-05 22:59:52,464 - INFO - 🔴 Bà Triệu: 9km/h (Gốc: 25) | Tắc: 77%
+2026-01-05 22:59:52,465 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:59:52,465 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:59:54 +07)" executed successfully
+2026-01-05 22:59:54,127 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:59:59 +07)" (scheduled at 2026-01-05 22:59:54.126720+07:00)
+2026-01-05 22:59:54,128 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:59:54,846 - INFO - 🟡 Đinh Tiên Hoàng: 17km/h (Gốc: 18) | Tắc: 57%
+2026-01-05 22:59:55,509 - INFO - 🟡 Phố Huế: 16km/h (Gốc: 21) | Tắc: 60%
+2026-01-05 22:59:56,190 - INFO - 🟡 Tây Sơn: 18km/h (Gốc: 22) | Tắc: 55%
+2026-01-05 22:59:56,858 - INFO - 🟢 Đường Láng: 33km/h (Gốc: 31) | Tắc: 17%
+2026-01-05 22:59:57,512 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-05 22:59:57,512 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 22:59:57,512 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 22:59:59 +07)" executed successfully
+2026-01-05 22:59:59,128 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:00:04 +07)" (scheduled at 2026-01-05 22:59:59.126720+07:00)
+2026-01-05 22:59:59,129 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 22:59:59,793 - INFO - 🟡 Đinh Tiên Hoàng: 13km/h (Gốc: 17) | Tắc: 67%
+2026-01-05 23:00:00,479 - INFO - 🟢 Phố Huế: 32km/h (Gốc: 27) | Tắc: 19%
+2026-01-05 23:00:01,128 - INFO - 🟡 Tây Sơn: 24km/h (Gốc: 22) | Tắc: 40%
+2026-01-05 23:00:02,099 - INFO - 🟢 Đường Láng: 27km/h (Gốc: 31) | Tắc: 32%
+2026-01-05 23:00:02,773 - INFO - 🔴 Bà Triệu: 10km/h (Gốc: 14) | Tắc: 75%
+2026-01-05 23:00:02,775 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:00:02,775 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:00:04 +07)" executed successfully
+2026-01-05 23:00:04,128 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:00:09 +07)" (scheduled at 2026-01-05 23:00:04.126720+07:00)
+2026-01-05 23:00:04,128 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:00:04,798 - INFO - 🟡 Đinh Tiên Hoàng: 17km/h (Gốc: 17) | Tắc: 57%
+2026-01-05 23:00:05,460 - INFO - 🟡 Phố Huế: 23km/h (Gốc: 27) | Tắc: 42%
+2026-01-05 23:00:06,133 - INFO - 🟡 Tây Sơn: 23km/h (Gốc: 22) | Tắc: 42%
+2026-01-05 23:00:06,804 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 31) | Tắc: 15%
+2026-01-05 23:00:07,464 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 14) | Tắc: 97%
+2026-01-05 23:00:07,465 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:00:07,465 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:00:09 +07)" executed successfully
+2026-01-05 23:00:09,127 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:00:14 +07)" (scheduled at 2026-01-05 23:00:09.126720+07:00)
+2026-01-05 23:00:09,127 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:00:09,809 - INFO - 🟡 Đinh Tiên Hoàng: 21km/h (Gốc: 17) | Tắc: 47%
+2026-01-05 23:00:10,488 - INFO - 🟢 Phố Huế: 31km/h (Gốc: 27) | Tắc: 22%
+2026-01-05 23:00:11,154 - INFO - 🟡 Tây Sơn: 20km/h (Gốc: 22) | Tắc: 50%
+2026-01-05 23:00:11,843 - INFO - 🟢 Đường Láng: 26km/h (Gốc: 31) | Tắc: 35%
+2026-01-05 23:00:12,582 - INFO - 🔴 Bà Triệu: 3km/h (Gốc: 14) | Tắc: 92%
+2026-01-05 23:00:12,583 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:00:12,583 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:00:14 +07)" executed successfully
+2026-01-05 23:00:14,127 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:00:19 +07)" (scheduled at 2026-01-05 23:00:14.126720+07:00)
+2026-01-05 23:00:14,128 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:00:14,794 - INFO - 🔴 Đinh Tiên Hoàng: 6km/h (Gốc: 17) | Tắc: 85%
+2026-01-05 23:00:15,462 - INFO - 🟢 Phố Huế: 32km/h (Gốc: 27) | Tắc: 19%
+2026-01-05 23:00:16,135 - INFO - 🟡 Tây Sơn: 17km/h (Gốc: 22) | Tắc: 57%
+2026-01-05 23:00:16,799 - INFO - 🟢 Đường Láng: 27km/h (Gốc: 31) | Tắc: 32%
+2026-01-05 23:00:17,464 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 14) | Tắc: 97%
+2026-01-05 23:00:17,465 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:00:17,465 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:00:19 +07)" executed successfully
+2026-01-05 23:00:19,127 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:00:24 +07)" (scheduled at 2026-01-05 23:00:19.126720+07:00)
+2026-01-05 23:00:19,128 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:00:19,796 - INFO - 🟡 Đinh Tiên Hoàng: 13km/h (Gốc: 17) | Tắc: 67%
+2026-01-05 23:00:20,449 - INFO - 🟡 Phố Huế: 23km/h (Gốc: 27) | Tắc: 42%
+2026-01-05 23:00:21,104 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 21) | Tắc: 97%
+2026-01-05 23:00:21,776 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 31) | Tắc: 15%
+2026-01-05 23:00:22,411 - INFO -  Đang dừng chương trình...
+2026-01-05 23:00:22,438 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-05 23:00:22,439 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:00:22,439 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:00:24 +07)" executed successfully
+2026-01-05 23:00:22,439 - INFO - Scheduler has been shut down
+2026-01-05 23:25:37,726 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-05 23:25:37,739 - INFO - MongoDB connected thành công!
+2026-01-05 23:25:37,741 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-05 23:25:37,742 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:25:39,021 - INFO - 🔴 Đinh Tiên Hoàng: 5km/h (Gốc: 17) | Tắc: 87%
+2026-01-05 23:25:39,681 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 23:25:40,386 - INFO - 🟡 Tây Sơn: 24km/h (Gốc: 22) | Tắc: 40%
+2026-01-05 23:25:41,052 - INFO - 🟢 Đường Láng: 31km/h (Gốc: 32) | Tắc: 22%
+2026-01-05 23:25:41,732 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-05 23:25:41,732 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:25:41,749 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-05 23:25:41,749 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-05 23:25:41,750 - INFO - Scheduler started
+2026-01-05 23:25:46,751 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:25:46 +07)" (scheduled at 2026-01-05 23:25:46.749437+07:00)
+2026-01-05 23:25:46,752 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:25:47,439 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 17) | Tắc: 44%
+2026-01-05 23:25:48,134 - INFO - 🟢 Phố Huế: 32km/h (Gốc: 27) | Tắc: 19%
+2026-01-05 23:25:48,788 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 22) | Tắc: 97%
+2026-01-05 23:25:49,475 - INFO - 🟢 Đường Láng: 27km/h (Gốc: 32) | Tắc: 32%
+2026-01-05 23:25:50,189 - INFO - 🟢 Bà Triệu: 26km/h (Gốc: 25) | Tắc: 35%
+2026-01-05 23:25:50,189 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:25:50,190 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:25:51 +07)" executed successfully
+2026-01-05 23:25:51,751 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:25:56 +07)" (scheduled at 2026-01-05 23:25:51.749437+07:00)
+2026-01-05 23:25:51,752 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:25:52,471 - INFO - 🔴 Đinh Tiên Hoàng: 12km/h (Gốc: 17) | Tắc: 70%
+2026-01-05 23:25:53,165 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 23:25:53,839 - INFO - 🟡 Tây Sơn: 24km/h (Gốc: 22) | Tắc: 40%
+2026-01-05 23:25:54,526 - INFO - 🟢 Đường Láng: 28km/h (Gốc: 32) | Tắc: 30%
+2026-01-05 23:25:55,236 - INFO - 🟡 Bà Triệu: 21km/h (Gốc: 25) | Tắc: 47%
+2026-01-05 23:25:55,236 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:25:55,237 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:25:56 +07)" executed successfully
+2026-01-05 23:25:56,751 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:01 +07)" (scheduled at 2026-01-05 23:25:56.749437+07:00)
+2026-01-05 23:25:56,752 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:25:57,435 - INFO - 🟡 Đinh Tiên Hoàng: 14km/h (Gốc: 17) | Tắc: 65%
+2026-01-05 23:25:58,194 - INFO - 🟢 Phố Huế: 30km/h (Gốc: 27) | Tắc: 25%
+2026-01-05 23:25:58,878 - INFO - 🟡 Tây Sơn: 21km/h (Gốc: 22) | Tắc: 47%
+2026-01-05 23:25:59,565 - INFO - 🟢 Đường Láng: 37km/h (Gốc: 32) | Tắc: 7%
+2026-01-05 23:26:00,246 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-05 23:26:00,247 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:26:00,247 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:01 +07)" executed successfully
+2026-01-05 23:26:01,751 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:06 +07)" (scheduled at 2026-01-05 23:26:01.749437+07:00)
+2026-01-05 23:26:01,752 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:26:02,426 - INFO - 🟡 Đinh Tiên Hoàng: 21km/h (Gốc: 24) | Tắc: 47%
+2026-01-05 23:26:03,084 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 23:26:03,770 - INFO - 🟡 Tây Sơn: 24km/h (Gốc: 22) | Tắc: 40%
+2026-01-05 23:26:04,455 - INFO - 🟢 Đường Láng: 33km/h (Gốc: 31) | Tắc: 17%
+2026-01-05 23:26:05,136 - INFO - 🟡 Bà Triệu: 24km/h (Gốc: 25) | Tắc: 40%
+2026-01-05 23:26:05,137 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:26:05,137 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:06 +07)" executed successfully
+2026-01-05 23:26:06,752 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:11 +07)" (scheduled at 2026-01-05 23:26:06.749437+07:00)
+2026-01-05 23:26:06,752 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:26:07,427 - INFO - 🔴 Đinh Tiên Hoàng: 7km/h (Gốc: 24) | Tắc: 82%
+2026-01-05 23:26:08,097 - INFO - 🟡 Phố Huế: 15km/h (Gốc: 27) | Tắc: 62%
+2026-01-05 23:26:08,755 - INFO - 🔴 Tây Sơn: 8km/h (Gốc: 22) | Tắc: 80%
+2026-01-05 23:26:09,783 - INFO - 🟢 Đường Láng: 27km/h (Gốc: 31) | Tắc: 32%
+2026-01-05 23:26:10,463 - INFO - 🟢 Bà Triệu: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-05 23:26:10,463 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:26:10,463 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:11 +07)" executed successfully
+2026-01-05 23:26:11,751 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:16 +07)" (scheduled at 2026-01-05 23:26:11.749437+07:00)
+2026-01-05 23:26:11,751 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:26:12,418 - INFO - 🟢 Đinh Tiên Hoàng: 28km/h (Gốc: 24) | Tắc: 30%
+2026-01-05 23:26:13,089 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 23:26:13,749 - INFO - 🟡 Tây Sơn: 20km/h (Gốc: 22) | Tắc: 50%
+2026-01-05 23:26:14,429 - INFO - 🟢 Đường Láng: 27km/h (Gốc: 31) | Tắc: 32%
+2026-01-05 23:26:15,107 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-05 23:26:15,107 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:26:15,108 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:16 +07)" executed successfully
+2026-01-05 23:26:16,751 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:21 +07)" (scheduled at 2026-01-05 23:26:16.749437+07:00)
+2026-01-05 23:26:16,751 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:26:17,423 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 24) | Tắc: 52%
+2026-01-05 23:26:18,111 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 23:26:18,798 - INFO - 🟡 Tây Sơn: 21km/h (Gốc: 22) | Tắc: 47%
+2026-01-05 23:26:19,465 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 32) | Tắc: 15%
+2026-01-05 23:26:20,135 - INFO - 🔴 Bà Triệu: 12km/h (Gốc: 25) | Tắc: 70%
+2026-01-05 23:26:20,135 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:26:20,135 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:21 +07)" executed successfully
+2026-01-05 23:26:21,750 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:26 +07)" (scheduled at 2026-01-05 23:26:21.749437+07:00)
+2026-01-05 23:26:21,751 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:26:22,424 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 24) | Tắc: 97%
+2026-01-05 23:26:23,100 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 23:26:23,793 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 22) | Tắc: 97%
+2026-01-05 23:26:24,484 - INFO - 🟢 Đường Láng: 30km/h (Gốc: 32) | Tắc: 25%
+2026-01-05 23:26:25,159 - INFO - 🔴 Bà Triệu: 8km/h (Gốc: 25) | Tắc: 80%
+2026-01-05 23:26:25,159 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:26:25,159 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:26 +07)" executed successfully
+2026-01-05 23:26:26,750 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:31 +07)" (scheduled at 2026-01-05 23:26:26.749437+07:00)
+2026-01-05 23:26:26,751 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:26:27,407 - INFO - 🟡 Đinh Tiên Hoàng: 14km/h (Gốc: 24) | Tắc: 65%
+2026-01-05 23:26:28,069 - INFO - 🟢 Phố Huế: 31km/h (Gốc: 27) | Tắc: 22%
+2026-01-05 23:26:28,746 - INFO - 🟡 Tây Sơn: 24km/h (Gốc: 22) | Tắc: 40%
+2026-01-05 23:26:29,418 - INFO - 🟢 Đường Láng: 29km/h (Gốc: 32) | Tắc: 27%
+2026-01-05 23:26:30,082 - INFO - 🟡 Bà Triệu: 20km/h (Gốc: 25) | Tắc: 50%
+2026-01-05 23:26:30,082 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:26:30,082 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:31 +07)" executed successfully
+2026-01-05 23:26:31,751 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:36 +07)" (scheduled at 2026-01-05 23:26:31.749437+07:00)
+2026-01-05 23:26:31,751 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:26:32,417 - INFO - 🟢 Đinh Tiên Hoàng: 26km/h (Gốc: 24) | Tắc: 35%
+2026-01-05 23:26:33,098 - INFO - 🟢 Phố Huế: 27km/h (Gốc: 27) | Tắc: 32%
+2026-01-05 23:26:33,761 - INFO - 🟡 Tây Sơn: 21km/h (Gốc: 22) | Tắc: 47%
+2026-01-05 23:26:34,433 - INFO - 🟡 Đường Láng: 15km/h (Gốc: 32) | Tắc: 62%
+2026-01-05 23:26:35,106 - INFO - 🟡 Bà Triệu: 21km/h (Gốc: 25) | Tắc: 47%
+2026-01-05 23:26:35,107 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:26:35,107 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:26:36 +07)" executed successfully
+2026-01-05 23:26:35,581 - INFO -  Đang dừng chương trình...
+2026-01-05 23:26:35,582 - INFO - Scheduler has been shut down
+2026-01-05 23:27:11,685 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-05 23:27:11,698 - INFO - MongoDB connected thành công!
+2026-01-05 23:27:11,698 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-05 23:27:11,699 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:27:13,096 - INFO - 🔴 Đinh Tiên Hoàng: 4km/h (Gốc: 20) | Tắc: 90%
+2026-01-05 23:27:13,776 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 23:27:14,507 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 23) | Tắc: 52%
+2026-01-05 23:27:15,190 - INFO - 🟡 Đường Láng: 21km/h (Gốc: 36) | Tắc: 47%
+2026-01-05 23:27:16,003 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 25) | Tắc: 97%
+2026-01-05 23:27:16,005 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:27:16,018 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-05 23:27:16,019 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-05 23:27:16,019 - INFO - Scheduler started
+2026-01-05 23:27:21,019 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:21 +07)" (scheduled at 2026-01-05 23:27:21.018318+07:00)
+2026-01-05 23:27:21,019 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:27:21,698 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 19) | Tắc: 97%
+2026-01-05 23:27:22,384 - INFO - 🟢 Phố Huế: 32km/h (Gốc: 27) | Tắc: 19%
+2026-01-05 23:27:23,101 - INFO - 🔴 Tây Sơn: 9km/h (Gốc: 23) | Tắc: 77%
+2026-01-05 23:27:23,762 - INFO - 🟡 Đường Láng: 18km/h (Gốc: 36) | Tắc: 55%
+2026-01-05 23:27:24,460 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-05 23:27:24,462 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:27:24,462 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:26 +07)" executed successfully
+2026-01-05 23:27:26,019 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:31 +07)" (scheduled at 2026-01-05 23:27:26.018318+07:00)
+2026-01-05 23:27:26,020 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:27:26,713 - INFO - 🟡 Đinh Tiên Hoàng: 24km/h (Gốc: 19) | Tắc: 40%
+2026-01-05 23:27:27,382 - INFO - 🟢 Phố Huế: 27km/h (Gốc: 27) | Tắc: 32%
+2026-01-05 23:27:28,061 - INFO - 🟢 Tây Sơn: 26km/h (Gốc: 23) | Tắc: 35%
+2026-01-05 23:27:28,743 - INFO - 🟢 Đường Láng: 39km/h (Gốc: 36) | Tắc: 2%
+2026-01-05 23:27:29,417 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-05 23:27:29,417 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:27:29,417 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:31 +07)" executed successfully
+2026-01-05 23:27:31,018 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:36 +07)" (scheduled at 2026-01-05 23:27:31.018318+07:00)
+2026-01-05 23:27:31,019 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:27:31,691 - INFO - 🟡 Đinh Tiên Hoàng: 20km/h (Gốc: 19) | Tắc: 50%
+2026-01-05 23:27:32,381 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 23:27:33,066 - INFO - 🟡 Tây Sơn: 21km/h (Gốc: 23) | Tắc: 47%
+2026-01-05 23:27:33,760 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 36) | Tắc: 15%
+2026-01-05 23:27:34,446 - INFO - 🟢 Bà Triệu: 26km/h (Gốc: 25) | Tắc: 35%
+2026-01-05 23:27:34,446 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:27:34,446 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:36 +07)" executed successfully
+2026-01-05 23:27:36,018 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:41 +07)" (scheduled at 2026-01-05 23:27:36.018318+07:00)
+2026-01-05 23:27:36,019 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:27:36,673 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 19) | Tắc: 44%
+2026-01-05 23:27:37,336 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 23:27:41,018 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:41 +07)" skipped: maximum number of running instances reached (1)
+2026-01-05 23:27:43,418 - ERROR - Lỗi trong quá trình xử lý: localhost:27017: [Errno 111] Connection refused, Timeout: 5.0s, Topology Description: <TopologyDescription id: 695be65f8b94e64e414232ff, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused')>]>
+2026-01-05 23:27:43,419 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:46 +07)" executed successfully
+2026-01-05 23:27:46,021 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:51 +07)" (scheduled at 2026-01-05 23:27:46.018318+07:00)
+2026-01-05 23:27:46,021 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:27:51,019 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:51 +07)" skipped: maximum number of running instances reached (1)
+2026-01-05 23:27:52,446 - ERROR - Lỗi trong quá trình xử lý: localhost:27017: [Errno 111] Connection refused, Timeout: 5.0s, Topology Description: <TopologyDescription id: 695be65f8b94e64e414232ff, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused')>]>
+2026-01-05 23:27:52,446 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:27:56 +07)" executed successfully
+2026-01-05 23:27:56,019 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:01 +07)" (scheduled at 2026-01-05 23:27:56.018318+07:00)
+2026-01-05 23:27:56,020 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:28:01,020 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:01 +07)" skipped: maximum number of running instances reached (1)
+2026-01-05 23:28:01,965 - ERROR - Lỗi trong quá trình xử lý: localhost:27017: [Errno 111] Connection refused, Timeout: 5.0s, Topology Description: <TopologyDescription id: 695be65f8b94e64e414232ff, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused')>]>
+2026-01-05 23:28:01,965 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:06 +07)" executed successfully
+2026-01-05 23:28:06,020 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:11 +07)" (scheduled at 2026-01-05 23:28:06.018318+07:00)
+2026-01-05 23:28:06,020 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:28:11,018 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:11 +07)" skipped: maximum number of running instances reached (1)
+2026-01-05 23:28:12,491 - ERROR - Lỗi trong quá trình xử lý: localhost:27017: [Errno 111] Connection refused, Timeout: 5.0s, Topology Description: <TopologyDescription id: 695be65f8b94e64e414232ff, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused')>]>
+2026-01-05 23:28:12,492 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:16 +07)" executed successfully
+2026-01-05 23:28:16,020 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:21 +07)" (scheduled at 2026-01-05 23:28:16.018318+07:00)
+2026-01-05 23:28:16,020 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:28:21,018 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:21 +07)" skipped: maximum number of running instances reached (1)
+2026-01-05 23:28:22,018 - ERROR - Lỗi trong quá trình xử lý: localhost:27017: [Errno 111] Connection refused, Timeout: 5.0s, Topology Description: <TopologyDescription id: 695be65f8b94e64e414232ff, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused')>]>
+2026-01-05 23:28:22,019 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:26 +07)" executed successfully
+2026-01-05 23:28:26,020 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:31 +07)" (scheduled at 2026-01-05 23:28:26.018318+07:00)
+2026-01-05 23:28:26,020 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:28:31,018 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:31 +07)" skipped: maximum number of running instances reached (1)
+2026-01-05 23:28:32,550 - ERROR - Lỗi trong quá trình xử lý: localhost:27017: [Errno 111] Connection refused, Timeout: 5.0s, Topology Description: <TopologyDescription id: 695be65f8b94e64e414232ff, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused')>]>
+2026-01-05 23:28:32,551 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:36 +07)" executed successfully
+2026-01-05 23:28:36,020 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:41 +07)" (scheduled at 2026-01-05 23:28:36.018318+07:00)
+2026-01-05 23:28:36,020 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:28:41,019 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:41 +07)" skipped: maximum number of running instances reached (1)
+2026-01-05 23:28:42,081 - ERROR - Lỗi trong quá trình xử lý: localhost:27017: [Errno 111] Connection refused, Timeout: 5.0s, Topology Description: <TopologyDescription id: 695be65f8b94e64e414232ff, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused')>]>
+2026-01-05 23:28:42,083 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:46 +07)" executed successfully
+2026-01-05 23:28:46,020 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:51 +07)" (scheduled at 2026-01-05 23:28:46.018318+07:00)
+2026-01-05 23:28:46,020 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:28:51,020 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:51 +07)" skipped: maximum number of running instances reached (1)
+2026-01-05 23:28:52,110 - ERROR - Lỗi trong quá trình xử lý: localhost:27017: [Errno 111] Connection refused, Timeout: 5.0s, Topology Description: <TopologyDescription id: 695be65f8b94e64e414232ff, topology_type: Single, servers: [<ServerDescription ('localhost', 27017) server_type: Unknown, rtt: None, error=AutoReconnect('localhost:27017: [Errno 111] Connection refused')>]>
+2026-01-05 23:28:52,111 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:28:56 +07)" executed successfully
+2026-01-05 23:28:56,019 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:01 +07)" (scheduled at 2026-01-05 23:28:56.018318+07:00)
+2026-01-05 23:28:56,019 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:28:57,138 - INFO - 🔴 Đinh Tiên Hoàng: 5km/h (Gốc: 19) | Tắc: 87%
+2026-01-05 23:28:58,005 - INFO - 🟢 Phố Huế: 32km/h (Gốc: 27) | Tắc: 19%
+2026-01-05 23:28:58,681 - INFO - 🟢 Tây Sơn: 35km/h (Gốc: 30) | Tắc: 12%
+2026-01-05 23:28:59,366 - INFO - 🟡 Đường Láng: 16km/h (Gốc: 36) | Tắc: 60%
+2026-01-05 23:29:00,033 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-05 23:29:00,033 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:29:00,033 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:01 +07)" executed successfully
+2026-01-05 23:29:01,019 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:06 +07)" (scheduled at 2026-01-05 23:29:01.018318+07:00)
+2026-01-05 23:29:01,019 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:29:01,693 - INFO - 🔴 Đinh Tiên Hoàng: 6km/h (Gốc: 24) | Tắc: 85%
+2026-01-05 23:29:02,359 - INFO - 🟢 Phố Huế: 27km/h (Gốc: 27) | Tắc: 32%
+2026-01-05 23:29:03,032 - INFO - 🟢 Tây Sơn: 28km/h (Gốc: 30) | Tắc: 30%
+2026-01-05 23:29:03,698 - INFO - 🟢 Đường Láng: 35km/h (Gốc: 36) | Tắc: 12%
+2026-01-05 23:29:04,379 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-05 23:29:04,379 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:29:04,379 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:06 +07)" executed successfully
+2026-01-05 23:29:06,019 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:11 +07)" (scheduled at 2026-01-05 23:29:06.018318+07:00)
+2026-01-05 23:29:06,019 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:29:06,680 - INFO - 🟡 Đinh Tiên Hoàng: 24km/h (Gốc: 24) | Tắc: 40%
+2026-01-05 23:29:07,351 - INFO - 🟢 Phố Huế: 27km/h (Gốc: 27) | Tắc: 32%
+2026-01-05 23:29:08,047 - INFO - 🟢 Tây Sơn: 25km/h (Gốc: 30) | Tắc: 37%
+2026-01-05 23:29:08,736 - INFO - 🟢 Đường Láng: 38km/h (Gốc: 36) | Tắc: 5%
+2026-01-05 23:29:09,413 - INFO - 🔴 Bà Triệu: 6km/h (Gốc: 25) | Tắc: 85%
+2026-01-05 23:29:09,415 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:29:09,415 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:11 +07)" executed successfully
+2026-01-05 23:29:11,018 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:16 +07)" (scheduled at 2026-01-05 23:29:11.018318+07:00)
+2026-01-05 23:29:11,018 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:29:11,703 - INFO - 🟢 Đinh Tiên Hoàng: 26km/h (Gốc: 24) | Tắc: 35%
+2026-01-05 23:29:12,398 - INFO - 🟢 Phố Huế: 27km/h (Gốc: 27) | Tắc: 32%
+2026-01-05 23:29:13,072 - INFO - 🟡 Tây Sơn: 15km/h (Gốc: 30) | Tắc: 62%
+2026-01-05 23:29:13,730 - INFO - 🟢 Đường Láng: 40km/h (Gốc: 36) | Tắc: 0%
+2026-01-05 23:29:14,400 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-05 23:29:14,400 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:29:14,400 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:16 +07)" executed successfully
+2026-01-05 23:29:16,020 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:21 +07)" (scheduled at 2026-01-05 23:29:16.018318+07:00)
+2026-01-05 23:29:16,021 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:29:16,704 - INFO - 🟢 Đinh Tiên Hoàng: 29km/h (Gốc: 24) | Tắc: 27%
+2026-01-05 23:29:17,478 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 23:29:18,168 - INFO - 🟢 Tây Sơn: 32km/h (Gốc: 30) | Tắc: 19%
+2026-01-05 23:29:18,852 - INFO - 🟢 Đường Láng: 40km/h (Gốc: 36) | Tắc: 0%
+2026-01-05 23:29:19,547 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 25) | Tắc: 97%
+2026-01-05 23:29:19,547 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:29:19,548 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:21 +07)" executed successfully
+2026-01-05 23:29:21,022 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:26 +07)" (scheduled at 2026-01-05 23:29:21.018318+07:00)
+2026-01-05 23:29:21,022 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:29:21,698 - INFO - 🟡 Đinh Tiên Hoàng: 24km/h (Gốc: 24) | Tắc: 40%
+2026-01-05 23:29:22,388 - INFO - 🟡 Phố Huế: 22km/h (Gốc: 27) | Tắc: 44%
+2026-01-05 23:29:23,062 - INFO - 🔴 Tây Sơn: 10km/h (Gốc: 30) | Tắc: 75%
+2026-01-05 23:29:23,740 - INFO - 🟢 Đường Láng: 39km/h (Gốc: 36) | Tắc: 2%
+2026-01-05 23:29:24,404 - INFO - 🔴 Bà Triệu: 6km/h (Gốc: 25) | Tắc: 85%
+2026-01-05 23:29:24,404 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:29:24,404 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:26 +07)" executed successfully
+2026-01-05 23:29:26,020 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:31 +07)" (scheduled at 2026-01-05 23:29:26.018318+07:00)
+2026-01-05 23:29:26,020 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:29:26,709 - INFO - 🟡 Đinh Tiên Hoàng: 21km/h (Gốc: 24) | Tắc: 47%
+2026-01-05 23:29:27,397 - INFO - 🟢 Phố Huế: 32km/h (Gốc: 27) | Tắc: 19%
+2026-01-05 23:29:28,123 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 30) | Tắc: 97%
+2026-01-05 23:29:28,815 - INFO - 🟡 Đường Láng: 24km/h (Gốc: 36) | Tắc: 40%
+2026-01-05 23:29:29,486 - INFO - 🟢 Bà Triệu: 25km/h (Gốc: 25) | Tắc: 37%
+2026-01-05 23:29:29,488 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:29:29,488 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:31 +07)" executed successfully
+2026-01-05 23:29:31,019 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:36 +07)" (scheduled at 2026-01-05 23:29:31.018318+07:00)
+2026-01-05 23:29:31,019 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:29:31,697 - INFO - 🔴 Đinh Tiên Hoàng: 7km/h (Gốc: 24) | Tắc: 82%
+2026-01-05 23:29:32,362 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 27) | Tắc: 97%
+2026-01-05 23:29:33,037 - INFO - 🟢 Tây Sơn: 34km/h (Gốc: 30) | Tắc: 15%
+2026-01-05 23:29:33,705 - INFO - 🟡 Đường Láng: 23km/h (Gốc: 36) | Tắc: 42%
+2026-01-05 23:29:34,358 - INFO - 🟡 Bà Triệu: 24km/h (Gốc: 25) | Tắc: 40%
+2026-01-05 23:29:34,359 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:29:34,359 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:36 +07)" executed successfully
+2026-01-05 23:29:36,021 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:41 +07)" (scheduled at 2026-01-05 23:29:36.018318+07:00)
+2026-01-05 23:29:36,021 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:29:36,754 - INFO - 🟡 Đinh Tiên Hoàng: 20km/h (Gốc: 24) | Tắc: 50%
+2026-01-05 23:29:37,460 - INFO - 🟢 Phố Huế: 26km/h (Gốc: 27) | Tắc: 35%
+2026-01-05 23:29:38,129 - INFO - 🔴 Tây Sơn: 10km/h (Gốc: 30) | Tắc: 75%
+2026-01-05 23:29:38,810 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 36) | Tắc: 15%
+2026-01-05 23:29:39,486 - INFO - 🔴 Bà Triệu: 6km/h (Gốc: 25) | Tắc: 85%
+2026-01-05 23:29:39,486 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:29:39,486 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:41 +07)" executed successfully
+2026-01-05 23:29:41,019 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:29:46 +07)" (scheduled at 2026-01-05 23:29:41.018318+07:00)
+2026-01-05 23:29:41,019 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:29:41,162 - INFO -  Đang dừng chương trình...
+2026-01-05 23:29:41,683 - INFO - 🟢 Đinh Tiên Hoàng: 27km/h (Gốc: 24) | Tắc: 32%
+2026-01-05 23:29:42,355 - INFO - 🔴 Phố Huế: 11km/h (Gốc: 27) | Tắc: 72%
+2026-01-05 23:29:43,075 - INFO - 🔴 Tây Sơn: 11km/h (Gốc: 30) | Tắc: 72%
+2026-01-05 23:29:43,770 - INFO - 🟢 Đường Láng: 41km/h (Gốc: 36) | Tắc: 0%
+2026-01-05 23:43:03,662 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-05 23:43:03,674 - INFO - MongoDB connected thành công!
+2026-01-05 23:43:03,674 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-05 23:43:03,675 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:43:04,720 - INFO - 🟡 Đinh Tiên Hoàng: 14km/h (Gốc: 24) | Tắc: 65%
+2026-01-05 23:43:05,380 - INFO - 🟢 Phố Huế: 26km/h (Gốc: 27) | Tắc: 35%
+2026-01-05 23:43:06,065 - INFO - 🟡 Tây Sơn: 17km/h (Gốc: 30) | Tắc: 57%
+2026-01-05 23:43:06,746 - INFO - 🟢 Đường Láng: 28km/h (Gốc: 31) | Tắc: 30%
+2026-01-05 23:43:07,409 - INFO - 🟡 Bà Triệu: 13km/h (Gốc: 17) | Tắc: 67%
+2026-01-05 23:43:07,409 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:43:07,430 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-05 23:43:07,431 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-05 23:43:07,431 - INFO - Scheduler started
+2026-01-05 23:43:12,433 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:12 +07)" (scheduled at 2026-01-05 23:43:12.430559+07:00)
+2026-01-05 23:43:12,433 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:43:13,115 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 24) | Tắc: 44%
+2026-01-05 23:43:13,781 - INFO - 🔴 Phố Huế: 8km/h (Gốc: 27) | Tắc: 80%
+2026-01-05 23:43:14,460 - INFO - 🟢 Tây Sơn: 29km/h (Gốc: 30) | Tắc: 27%
+2026-01-05 23:43:15,187 - INFO - 🟢 Đường Láng: 26km/h (Gốc: 31) | Tắc: 35%
+2026-01-05 23:43:15,839 - INFO - 🔴 Bà Triệu: 5km/h (Gốc: 17) | Tắc: 87%
+2026-01-05 23:43:15,840 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:43:15,840 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:17 +07)" executed successfully
+2026-01-05 23:43:17,433 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:22 +07)" (scheduled at 2026-01-05 23:43:17.430559+07:00)
+2026-01-05 23:43:17,433 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:43:18,100 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 24) | Tắc: 97%
+2026-01-05 23:43:18,802 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 23:43:19,491 - INFO - 🟢 Tây Sơn: 25km/h (Gốc: 30) | Tắc: 37%
+2026-01-05 23:43:20,163 - INFO - 🟢 Đường Láng: 32km/h (Gốc: 31) | Tắc: 19%
+2026-01-05 23:43:20,835 - INFO - 🟡 Bà Triệu: 21km/h (Gốc: 17) | Tắc: 47%
+2026-01-05 23:43:20,835 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:43:20,835 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:22 +07)" executed successfully
+2026-01-05 23:43:22,432 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:27 +07)" (scheduled at 2026-01-05 23:43:22.430559+07:00)
+2026-01-05 23:43:22,433 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:43:23,085 - INFO - 🟢 Đinh Tiên Hoàng: 29km/h (Gốc: 24) | Tắc: 27%
+2026-01-05 23:43:23,749 - INFO - 🟡 Phố Huế: 24km/h (Gốc: 27) | Tắc: 40%
+2026-01-05 23:43:24,418 - INFO - 🟢 Tây Sơn: 28km/h (Gốc: 30) | Tắc: 30%
+2026-01-05 23:43:25,101 - INFO - 🔴 Đường Láng: 2km/h (Gốc: 31) | Tắc: 95%
+2026-01-05 23:43:25,874 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 17) | Tắc: 97%
+2026-01-05 23:43:25,875 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:43:25,875 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:27 +07)" executed successfully
+2026-01-05 23:43:27,432 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:32 +07)" (scheduled at 2026-01-05 23:43:27.430559+07:00)
+2026-01-05 23:43:27,432 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:43:28,114 - INFO - 🟢 Đinh Tiên Hoàng: 26km/h (Gốc: 24) | Tắc: 35%
+2026-01-05 23:43:28,785 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 27) | Tắc: 97%
+2026-01-05 23:43:29,442 - INFO - 🟢 Tây Sơn: 25km/h (Gốc: 30) | Tắc: 37%
+2026-01-05 23:43:30,131 - INFO - 🟢 Đường Láng: 39km/h (Gốc: 36) | Tắc: 2%
+2026-01-05 23:43:30,807 - INFO - 🟡 Bà Triệu: 15km/h (Gốc: 17) | Tắc: 62%
+2026-01-05 23:43:30,808 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:43:30,808 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:32 +07)" executed successfully
+2026-01-05 23:43:32,431 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:37 +07)" (scheduled at 2026-01-05 23:43:32.430559+07:00)
+2026-01-05 23:43:32,432 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:43:33,201 - INFO - 🟢 Đinh Tiên Hoàng: 26km/h (Gốc: 24) | Tắc: 35%
+2026-01-05 23:43:33,874 - INFO - 🟢 Phố Huế: 27km/h (Gốc: 27) | Tắc: 32%
+2026-01-05 23:43:34,557 - INFO - 🟢 Tây Sơn: 31km/h (Gốc: 30) | Tắc: 22%
+2026-01-05 23:43:35,221 - INFO - 🟢 Đường Láng: 38km/h (Gốc: 36) | Tắc: 5%
+2026-01-05 23:43:35,927 - INFO - 🟡 Bà Triệu: 17km/h (Gốc: 17) | Tắc: 57%
+2026-01-05 23:43:35,928 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:43:35,928 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:37 +07)" executed successfully
+2026-01-05 23:43:37,431 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:42 +07)" (scheduled at 2026-01-05 23:43:37.430559+07:00)
+2026-01-05 23:43:37,432 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:43:38,150 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 24) | Tắc: 42%
+2026-01-05 23:43:38,874 - INFO - 🟡 Phố Huế: 23km/h (Gốc: 27) | Tắc: 42%
+2026-01-05 23:43:39,553 - INFO - 🟢 Tây Sơn: 28km/h (Gốc: 30) | Tắc: 30%
+2026-01-05 23:43:40,232 - INFO - 🟢 Đường Láng: 31km/h (Gốc: 36) | Tắc: 22%
+2026-01-05 23:43:40,898 - INFO - 🟡 Bà Triệu: 18km/h (Gốc: 17) | Tắc: 55%
+2026-01-05 23:43:40,898 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:43:40,898 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:42 +07)" executed successfully
+2026-01-05 23:43:42,433 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:47 +07)" (scheduled at 2026-01-05 23:43:42.430559+07:00)
+2026-01-05 23:43:42,434 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:43:43,108 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 24) | Tắc: 52%
+2026-01-05 23:43:44,072 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 23:43:44,732 - INFO - 🟡 Tây Sơn: 17km/h (Gốc: 30) | Tắc: 57%
+2026-01-05 23:43:45,401 - INFO - 🟢 Đường Láng: 37km/h (Gốc: 36) | Tắc: 7%
+2026-01-05 23:43:46,087 - INFO - 🔴 Bà Triệu: 4km/h (Gốc: 17) | Tắc: 90%
+2026-01-05 23:43:46,088 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:43:46,088 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:47 +07)" executed successfully
+2026-01-05 23:43:47,432 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:52 +07)" (scheduled at 2026-01-05 23:43:47.430559+07:00)
+2026-01-05 23:43:47,433 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:43:48,105 - INFO - 🔴 Đinh Tiên Hoàng: 6km/h (Gốc: 24) | Tắc: 85%
+2026-01-05 23:43:48,778 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-05 23:43:49,453 - INFO - 🟢 Tây Sơn: 35km/h (Gốc: 30) | Tắc: 12%
+2026-01-05 23:43:50,135 - INFO - 🟢 Đường Láng: 40km/h (Gốc: 36) | Tắc: 0%
+2026-01-05 23:43:50,800 - INFO - 🟡 Bà Triệu: 20km/h (Gốc: 17) | Tắc: 50%
+2026-01-05 23:43:50,800 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:43:50,801 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:52 +07)" executed successfully
+2026-01-05 23:43:52,432 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:57 +07)" (scheduled at 2026-01-05 23:43:52.430559+07:00)
+2026-01-05 23:43:52,432 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:43:53,100 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 24) | Tắc: 52%
+2026-01-05 23:43:53,770 - INFO - 🟢 Phố Huế: 31km/h (Gốc: 27) | Tắc: 22%
+2026-01-05 23:43:54,429 - INFO - 🟢 Tây Sơn: 34km/h (Gốc: 30) | Tắc: 15%
+2026-01-05 23:43:55,094 - INFO - 🟢 Đường Láng: 38km/h (Gốc: 36) | Tắc: 5%
+2026-01-05 23:43:55,759 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 17) | Tắc: 97%
+2026-01-05 23:43:55,759 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:43:55,759 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:43:57 +07)" executed successfully
+2026-01-05 23:43:57,433 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:02 +07)" (scheduled at 2026-01-05 23:43:57.430559+07:00)
+2026-01-05 23:43:57,434 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:43:58,084 - INFO - 🔴 Đinh Tiên Hoàng: 6km/h (Gốc: 24) | Tắc: 85%
+2026-01-05 23:43:58,745 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 23:43:59,405 - INFO - 🟢 Tây Sơn: 34km/h (Gốc: 30) | Tắc: 15%
+2026-01-05 23:44:00,075 - INFO - 🟢 Đường Láng: 31km/h (Gốc: 36) | Tắc: 22%
+2026-01-05 23:44:00,728 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 17) | Tắc: 97%
+2026-01-05 23:44:00,728 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:00,728 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:02 +07)" executed successfully
+2026-01-05 23:44:02,431 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:07 +07)" (scheduled at 2026-01-05 23:44:02.430559+07:00)
+2026-01-05 23:44:02,432 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:44:03,110 - INFO - 🟡 Đinh Tiên Hoàng: 13km/h (Gốc: 24) | Tắc: 67%
+2026-01-05 23:44:03,788 - INFO - 🟢 Phố Huế: 27km/h (Gốc: 27) | Tắc: 32%
+2026-01-05 23:44:04,457 - INFO - 🟢 Tây Sơn: 28km/h (Gốc: 30) | Tắc: 30%
+2026-01-05 23:44:05,186 - INFO - 🟢 Đường Láng: 35km/h (Gốc: 36) | Tắc: 12%
+2026-01-05 23:44:05,853 - INFO - 🟡 Bà Triệu: 15km/h (Gốc: 17) | Tắc: 62%
+2026-01-05 23:44:05,853 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:05,853 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:07 +07)" executed successfully
+2026-01-05 23:44:07,433 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:12 +07)" (scheduled at 2026-01-05 23:44:07.430559+07:00)
+2026-01-05 23:44:07,433 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:44:08,100 - INFO - 🔴 Đinh Tiên Hoàng: 11km/h (Gốc: 24) | Tắc: 72%
+2026-01-05 23:44:08,760 - INFO - 🟢 Phố Huế: 27km/h (Gốc: 27) | Tắc: 32%
+2026-01-05 23:44:09,430 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 30) | Tắc: 97%
+2026-01-05 23:44:10,096 - INFO - 🟡 Đường Láng: 20km/h (Gốc: 36) | Tắc: 50%
+2026-01-05 23:44:10,767 - INFO - 🟡 Bà Triệu: 16km/h (Gốc: 17) | Tắc: 60%
+2026-01-05 23:44:10,768 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:10,768 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:12 +07)" executed successfully
+2026-01-05 23:44:12,432 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:17 +07)" (scheduled at 2026-01-05 23:44:12.430559+07:00)
+2026-01-05 23:44:12,432 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:44:13,102 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 24) | Tắc: 44%
+2026-01-05 23:44:13,787 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 23:44:14,454 - INFO - 🟢 Tây Sơn: 34km/h (Gốc: 30) | Tắc: 15%
+2026-01-05 23:44:15,134 - INFO - 🟢 Đường Láng: 39km/h (Gốc: 36) | Tắc: 2%
+2026-01-05 23:44:15,819 - INFO - 🟡 Bà Triệu: 16km/h (Gốc: 17) | Tắc: 60%
+2026-01-05 23:44:15,820 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:15,820 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:17 +07)" executed successfully
+2026-01-05 23:44:17,432 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:22 +07)" (scheduled at 2026-01-05 23:44:17.430559+07:00)
+2026-01-05 23:44:17,433 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:44:18,105 - INFO - 🟡 Đinh Tiên Hoàng: 14km/h (Gốc: 24) | Tắc: 65%
+2026-01-05 23:44:18,783 - INFO - 🟢 Phố Huế: 32km/h (Gốc: 27) | Tắc: 19%
+2026-01-05 23:44:19,461 - INFO - 🟢 Tây Sơn: 28km/h (Gốc: 30) | Tắc: 30%
+2026-01-05 23:44:20,114 - INFO - 🟢 Đường Láng: 32km/h (Gốc: 36) | Tắc: 19%
+2026-01-05 23:44:20,773 - INFO - 🟡 Bà Triệu: 15km/h (Gốc: 17) | Tắc: 62%
+2026-01-05 23:44:20,773 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:20,773 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:22 +07)" executed successfully
+2026-01-05 23:44:22,432 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:27 +07)" (scheduled at 2026-01-05 23:44:22.430559+07:00)
+2026-01-05 23:44:22,433 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:44:23,102 - INFO - 🟢 Đinh Tiên Hoàng: 28km/h (Gốc: 24) | Tắc: 30%
+2026-01-05 23:44:23,771 - INFO - 🔴 Phố Huế: 11km/h (Gốc: 27) | Tắc: 72%
+2026-01-05 23:44:24,450 - INFO - 🔴 Tây Sơn: 3km/h (Gốc: 30) | Tắc: 92%
+2026-01-05 23:44:25,110 - INFO - 🟢 Đường Láng: 31km/h (Gốc: 36) | Tắc: 22%
+2026-01-05 23:44:25,767 - INFO - 🟡 Bà Triệu: 20km/h (Gốc: 17) | Tắc: 50%
+2026-01-05 23:44:25,767 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:25,767 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:27 +07)" executed successfully
+2026-01-05 23:44:27,431 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:32 +07)" (scheduled at 2026-01-05 23:44:27.430559+07:00)
+2026-01-05 23:44:27,432 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:44:28,119 - INFO - 🔴 Đinh Tiên Hoàng: 10km/h (Gốc: 24) | Tắc: 75%
+2026-01-05 23:44:28,767 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 23:44:29,443 - INFO - 🔴 Tây Sơn: 4km/h (Gốc: 30) | Tắc: 90%
+2026-01-05 23:44:30,115 - INFO - 🟢 Đường Láng: 36km/h (Gốc: 36) | Tắc: 9%
+2026-01-05 23:44:30,796 - INFO - 🟡 Bà Triệu: 21km/h (Gốc: 17) | Tắc: 47%
+2026-01-05 23:44:30,796 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:30,796 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:32 +07)" executed successfully
+2026-01-05 23:44:32,433 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:37 +07)" (scheduled at 2026-01-05 23:44:32.430559+07:00)
+2026-01-05 23:44:32,434 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:44:33,118 - INFO - 🟡 Đinh Tiên Hoàng: 21km/h (Gốc: 24) | Tắc: 47%
+2026-01-05 23:44:33,774 - INFO - 🟡 Phố Huế: 24km/h (Gốc: 27) | Tắc: 40%
+2026-01-05 23:44:34,450 - INFO - 🟢 Tây Sơn: 34km/h (Gốc: 30) | Tắc: 15%
+2026-01-05 23:44:35,110 - INFO - 🟢 Đường Láng: 33km/h (Gốc: 36) | Tắc: 17%
+2026-01-05 23:44:35,788 - INFO - 🟡 Bà Triệu: 19km/h (Gốc: 17) | Tắc: 52%
+2026-01-05 23:44:35,789 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:35,789 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:37 +07)" executed successfully
+2026-01-05 23:44:37,433 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:42 +07)" (scheduled at 2026-01-05 23:44:37.430559+07:00)
+2026-01-05 23:44:37,433 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:44:38,102 - INFO - 🟢 Đinh Tiên Hoàng: 28km/h (Gốc: 24) | Tắc: 30%
+2026-01-05 23:44:38,782 - INFO - 🔴 Phố Huế: 9km/h (Gốc: 27) | Tắc: 77%
+2026-01-05 23:44:39,433 - INFO - 🟢 Tây Sơn: 26km/h (Gốc: 30) | Tắc: 35%
+2026-01-05 23:44:40,103 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 36) | Tắc: 15%
+2026-01-05 23:44:40,764 - INFO - 🔴 Bà Triệu: 12km/h (Gốc: 17) | Tắc: 70%
+2026-01-05 23:44:40,764 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:40,764 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:42 +07)" executed successfully
+2026-01-05 23:44:42,431 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:47 +07)" (scheduled at 2026-01-05 23:44:42.430559+07:00)
+2026-01-05 23:44:42,432 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:44:43,094 - INFO - 🔴 Đinh Tiên Hoàng: 8km/h (Gốc: 24) | Tắc: 80%
+2026-01-05 23:44:43,752 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-05 23:44:44,445 - INFO - 🟢 Tây Sơn: 28km/h (Gốc: 30) | Tắc: 30%
+2026-01-05 23:44:45,103 - INFO - 🔴 Đường Láng: 1km/h (Gốc: 36) | Tắc: 97%
+2026-01-05 23:44:45,775 - INFO - 🟡 Bà Triệu: 15km/h (Gốc: 17) | Tắc: 62%
+2026-01-05 23:44:45,775 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:45,775 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:47 +07)" executed successfully
+2026-01-05 23:44:47,431 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:52 +07)" (scheduled at 2026-01-05 23:44:47.430559+07:00)
+2026-01-05 23:44:47,431 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:44:48,107 - INFO - 🔴 Đinh Tiên Hoàng: 10km/h (Gốc: 24) | Tắc: 75%
+2026-01-05 23:44:48,791 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 23:44:49,491 - INFO - 🟢 Tây Sơn: 33km/h (Gốc: 30) | Tắc: 17%
+2026-01-05 23:44:50,210 - INFO - 🔴 Đường Láng: 9km/h (Gốc: 36) | Tắc: 77%
+2026-01-05 23:44:50,885 - INFO - 🟡 Bà Triệu: 18km/h (Gốc: 17) | Tắc: 55%
+2026-01-05 23:44:50,885 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:50,885 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:52 +07)" executed successfully
+2026-01-05 23:44:52,432 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:57 +07)" (scheduled at 2026-01-05 23:44:52.430559+07:00)
+2026-01-05 23:44:52,433 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:44:53,097 - INFO - 🟡 Đinh Tiên Hoàng: 24km/h (Gốc: 24) | Tắc: 40%
+2026-01-05 23:44:53,779 - INFO - 🟡 Phố Huế: 16km/h (Gốc: 27) | Tắc: 60%
+2026-01-05 23:44:54,447 - INFO - 🟡 Tây Sơn: 15km/h (Gốc: 30) | Tắc: 62%
+2026-01-05 23:44:55,191 - INFO - 🔴 Đường Láng: 4km/h (Gốc: 36) | Tắc: 90%
+2026-01-05 23:44:55,864 - INFO - 🔴 Bà Triệu: 12km/h (Gốc: 17) | Tắc: 70%
+2026-01-05 23:44:55,865 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:44:55,865 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:44:57 +07)" executed successfully
+2026-01-05 23:44:56,276 - INFO -  Đang dừng chương trình...
+2026-01-05 23:44:56,276 - INFO - Scheduler has been shut down
+2026-01-05 23:50:05,442 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-05 23:50:05,454 - INFO - MongoDB connected thành công!
+2026-01-05 23:50:05,455 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-05 23:50:05,455 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:50:06,424 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-05 23:50:07,105 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-05 23:50:07,767 - INFO - 🔴 Tây Sơn: 12km/h (Gốc: 30) | Tắc: 70%
+2026-01-05 23:50:08,437 - INFO - 🟢 Đường Láng: 35km/h (Gốc: 36) | Tắc: 12%
+2026-01-05 23:50:09,096 - INFO - 🟡 Bà Triệu: 18km/h (Gốc: 13) | Tắc: 55%
+2026-01-05 23:50:09,098 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:50:09,123 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-05 23:50:09,123 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-05 23:50:09,123 - INFO - Scheduler started
+2026-01-05 23:50:14,124 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:50:14 +07)" (scheduled at 2026-01-05 23:50:14.123009+07:00)
+2026-01-05 23:50:14,124 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:50:14,806 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-05 23:50:15,493 - INFO - 🟢 Phố Huế: 30km/h (Gốc: 27) | Tắc: 25%
+2026-01-05 23:50:16,161 - INFO - 🔴 Tây Sơn: 12km/h (Gốc: 30) | Tắc: 70%
+2026-01-05 23:50:16,837 - INFO - 🟢 Đường Láng: 36km/h (Gốc: 36) | Tắc: 9%
+2026-01-05 23:50:17,514 - INFO - 🔴 Bà Triệu: 10km/h (Gốc: 13) | Tắc: 75%
+2026-01-05 23:50:17,515 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:50:17,515 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:50:19 +07)" executed successfully
+2026-01-05 23:50:19,124 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:50:24 +07)" (scheduled at 2026-01-05 23:50:19.123009+07:00)
+2026-01-05 23:50:19,125 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:50:19,836 - INFO - 🟡 Đinh Tiên Hoàng: 17km/h (Gốc: 18) | Tắc: 57%
+2026-01-05 23:50:20,549 - INFO - 🟡 Phố Huế: 16km/h (Gốc: 27) | Tắc: 60%
+2026-01-05 23:50:21,230 - INFO - 🟢 Tây Sơn: 27km/h (Gốc: 30) | Tắc: 32%
+2026-01-05 23:50:21,923 - INFO - 🟢 Đường Láng: 26km/h (Gốc: 36) | Tắc: 35%
+2026-01-05 23:50:22,593 - INFO - 🟡 Bà Triệu: 13km/h (Gốc: 13) | Tắc: 67%
+2026-01-05 23:50:22,594 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:50:22,594 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:50:24 +07)" executed successfully
+2026-01-05 23:50:24,123 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:50:29 +07)" (scheduled at 2026-01-05 23:50:24.123009+07:00)
+2026-01-05 23:50:24,124 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-05 23:50:24,782 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 18) | Tắc: 44%
+2026-01-05 23:50:25,442 - INFO - 🟢 Phố Huế: 30km/h (Gốc: 27) | Tắc: 25%
+2026-01-05 23:50:26,107 - INFO - 🟡 Tây Sơn: 18km/h (Gốc: 30) | Tắc: 55%
+2026-01-05 23:50:26,800 - INFO - 🟢 Đường Láng: 33km/h (Gốc: 36) | Tắc: 17%
+2026-01-05 23:50:27,461 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 13) | Tắc: 97%
+2026-01-05 23:50:27,462 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-05 23:50:27,462 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-05 23:50:29 +07)" executed successfully
+2026-01-05 23:50:28,314 - INFO -  Đang dừng chương trình...
+2026-01-05 23:50:28,314 - INFO - Scheduler has been shut down
+2026-01-06 00:00:59,891 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-06 00:00:59,901 - INFO - MongoDB connected thành công!
+2026-01-06 00:00:59,902 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-06 00:00:59,903 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:01,131 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 19) | Tắc: 55%
+2026-01-06 00:01:01,790 - INFO - 🟡 Phố Huế: 24km/h (Gốc: 24) | Tắc: 40%
+2026-01-06 00:01:02,448 - INFO - 🟢 Tây Sơn: 27km/h (Gốc: 24) | Tắc: 32%
+2026-01-06 00:01:03,121 - INFO - 🟢 Đường Láng: 33km/h (Gốc: 36) | Tắc: 17%
+2026-01-06 00:01:03,784 - INFO - 🟡 Bà Triệu: 24km/h (Gốc: 25) | Tắc: 40%
+2026-01-06 00:01:03,787 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:01:03,803 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-06 00:01:03,804 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-06 00:01:03,804 - INFO - Scheduler started
+2026-01-06 00:01:08,804 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:08 +07)" (scheduled at 2026-01-06 00:01:08.803032+07:00)
+2026-01-06 00:01:08,805 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:09,478 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 19) | Tắc: 42%
+2026-01-06 00:01:10,127 - INFO - 🟡 Phố Huế: 22km/h (Gốc: 24) | Tắc: 44%
+2026-01-06 00:01:10,798 - INFO - 🟡 Tây Sơn: 22km/h (Gốc: 24) | Tắc: 44%
+2026-01-06 00:01:11,449 - INFO - 🟢 Đường Láng: 41km/h (Gốc: 36) | Tắc: 0%
+2026-01-06 00:01:12,103 - INFO - 🟡 Bà Triệu: 21km/h (Gốc: 25) | Tắc: 47%
+2026-01-06 00:01:12,104 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:01:12,104 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:13 +07)" executed successfully
+2026-01-06 00:01:13,804 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:18 +07)" (scheduled at 2026-01-06 00:01:13.803032+07:00)
+2026-01-06 00:01:13,804 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:14,544 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 19) | Tắc: 42%
+2026-01-06 00:01:15,213 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 24) | Tắc: 30%
+2026-01-06 00:01:15,867 - INFO - 🟡 Tây Sơn: 20km/h (Gốc: 24) | Tắc: 50%
+2026-01-06 00:01:16,551 - INFO - 🟢 Đường Láng: 31km/h (Gốc: 36) | Tắc: 22%
+2026-01-06 00:01:17,222 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 25) | Tắc: 97%
+2026-01-06 00:01:17,222 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:01:17,222 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:18 +07)" executed successfully
+2026-01-06 00:01:18,804 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:23 +07)" (scheduled at 2026-01-06 00:01:18.803032+07:00)
+2026-01-06 00:01:18,806 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:19,471 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 19) | Tắc: 97%
+2026-01-06 00:01:20,148 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 27) | Tắc: 97%
+2026-01-06 00:01:20,806 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 23) | Tắc: 97%
+2026-01-06 00:01:21,465 - INFO - 🟢 Đường Láng: 37km/h (Gốc: 36) | Tắc: 7%
+2026-01-06 00:01:22,140 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 25) | Tắc: 97%
+2026-01-06 00:01:22,149 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:01:22,149 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:23 +07)" executed successfully
+2026-01-06 00:01:23,804 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:28 +07)" (scheduled at 2026-01-06 00:01:23.803032+07:00)
+2026-01-06 00:01:23,805 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:24,467 - INFO - 🟡 Đinh Tiên Hoàng: 24km/h (Gốc: 19) | Tắc: 40%
+2026-01-06 00:01:25,119 - INFO - 🟢 Phố Huế: 30km/h (Gốc: 27) | Tắc: 25%
+2026-01-06 00:01:25,794 - INFO - 🟢 Tây Sơn: 27km/h (Gốc: 23) | Tắc: 32%
+2026-01-06 00:01:26,453 - INFO - 🟢 Đường Láng: 32km/h (Gốc: 36) | Tắc: 19%
+2026-01-06 00:01:27,120 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-06 00:01:27,121 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:01:27,121 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:28 +07)" executed successfully
+2026-01-06 00:01:28,804 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:33 +07)" (scheduled at 2026-01-06 00:01:28.803032+07:00)
+2026-01-06 00:01:28,804 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:29,469 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 19) | Tắc: 42%
+2026-01-06 00:01:30,114 - INFO - 🟡 Phố Huế: 22km/h (Gốc: 27) | Tắc: 44%
+2026-01-06 00:01:30,790 - INFO - 🟡 Tây Sơn: 22km/h (Gốc: 23) | Tắc: 44%
+2026-01-06 00:01:31,565 - INFO - 🟡 Đường Láng: 23km/h (Gốc: 36) | Tắc: 42%
+2026-01-06 00:01:32,221 - INFO - 🔴 Bà Triệu: 6km/h (Gốc: 25) | Tắc: 85%
+2026-01-06 00:01:32,222 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:01:32,222 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:33 +07)" executed successfully
+2026-01-06 00:01:33,803 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:38 +07)" (scheduled at 2026-01-06 00:01:33.803032+07:00)
+2026-01-06 00:01:33,803 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:34,442 - INFO - 🟡 Đinh Tiên Hoàng: 21km/h (Gốc: 19) | Tắc: 47%
+2026-01-06 00:01:35,099 - INFO - 🔴 Phố Huế: 11km/h (Gốc: 27) | Tắc: 72%
+2026-01-06 00:01:35,773 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 23) | Tắc: 52%
+2026-01-06 00:01:36,438 - INFO - 🟢 Đường Láng: 37km/h (Gốc: 36) | Tắc: 7%
+2026-01-06 00:01:37,081 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 25) | Tắc: 97%
+2026-01-06 00:01:37,082 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:01:37,082 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:38 +07)" executed successfully
+2026-01-06 00:01:38,804 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:43 +07)" (scheduled at 2026-01-06 00:01:38.803032+07:00)
+2026-01-06 00:01:38,805 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:39,456 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 19) | Tắc: 55%
+2026-01-06 00:01:40,124 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 27) | Tắc: 97%
+2026-01-06 00:01:41,433 - INFO - 🟡 Tây Sơn: 23km/h (Gốc: 23) | Tắc: 42%
+2026-01-06 00:01:42,109 - INFO - 🟢 Đường Láng: 39km/h (Gốc: 36) | Tắc: 2%
+2026-01-06 00:01:42,776 - INFO - 🟢 Bà Triệu: 29km/h (Gốc: 25) | Tắc: 27%
+2026-01-06 00:01:42,777 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:01:42,778 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:43 +07)" executed successfully
+2026-01-06 00:01:43,804 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:48 +07)" (scheduled at 2026-01-06 00:01:43.803032+07:00)
+2026-01-06 00:01:43,804 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:44,470 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 19) | Tắc: 55%
+2026-01-06 00:01:45,137 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 27) | Tắc: 97%
+2026-01-06 00:01:45,818 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 23) | Tắc: 97%
+2026-01-06 00:01:46,535 - INFO - 🟢 Đường Láng: 25km/h (Gốc: 36) | Tắc: 37%
+2026-01-06 00:01:47,232 - INFO - 🟡 Bà Triệu: 24km/h (Gốc: 25) | Tắc: 40%
+2026-01-06 00:01:47,232 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:01:47,232 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:48 +07)" executed successfully
+2026-01-06 00:01:48,804 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:53 +07)" (scheduled at 2026-01-06 00:01:48.803032+07:00)
+2026-01-06 00:01:48,806 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:49,472 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 19) | Tắc: 42%
+2026-01-06 00:01:50,138 - INFO - 🟢 Phố Huế: 26km/h (Gốc: 27) | Tắc: 35%
+2026-01-06 00:01:50,796 - INFO - 🟡 Tây Sơn: 18km/h (Gốc: 23) | Tắc: 55%
+2026-01-06 00:01:51,462 - INFO - 🟡 Đường Láng: 19km/h (Gốc: 36) | Tắc: 52%
+2026-01-06 00:01:52,124 - INFO - 🔴 Bà Triệu: 6km/h (Gốc: 25) | Tắc: 85%
+2026-01-06 00:01:52,125 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:01:52,125 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:53 +07)" executed successfully
+2026-01-06 00:01:53,803 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:58 +07)" (scheduled at 2026-01-06 00:01:53.803032+07:00)
+2026-01-06 00:01:53,803 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:54,443 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 19) | Tắc: 52%
+2026-01-06 00:01:55,100 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 27) | Tắc: 97%
+2026-01-06 00:01:55,762 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 23) | Tắc: 52%
+2026-01-06 00:01:56,406 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 36) | Tắc: 15%
+2026-01-06 00:01:57,067 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-06 00:01:57,067 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:01:57,067 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:01:58 +07)" executed successfully
+2026-01-06 00:01:58,805 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:03 +07)" (scheduled at 2026-01-06 00:01:58.803032+07:00)
+2026-01-06 00:01:58,805 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:01:59,470 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 19) | Tắc: 97%
+2026-01-06 00:02:00,159 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-06 00:02:00,828 - INFO - 🟡 Tây Sơn: 21km/h (Gốc: 23) | Tắc: 47%
+2026-01-06 00:02:01,500 - INFO - 🟢 Đường Láng: 31km/h (Gốc: 36) | Tắc: 22%
+2026-01-06 00:02:02,160 - INFO - 🟢 Bà Triệu: 30km/h (Gốc: 25) | Tắc: 25%
+2026-01-06 00:02:02,161 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:02:02,163 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:03 +07)" executed successfully
+2026-01-06 00:02:03,003 - INFO -  Đang dừng chương trình...
+2026-01-06 00:02:03,004 - INFO - Scheduler has been shut down
+2026-01-06 00:02:08,153 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-06 00:02:08,164 - INFO - MongoDB connected thành công!
+2026-01-06 00:02:08,164 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-06 00:02:08,165 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:02:08,810 - INFO - 🟡 Đinh Tiên Hoàng: 22km/h (Gốc: 19) | Tắc: 44%
+2026-01-06 00:02:09,462 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-06 00:02:10,129 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 23) | Tắc: 97%
+2026-01-06 00:02:10,812 - INFO - 🟢 Đường Láng: 34km/h (Gốc: 36) | Tắc: 15%
+2026-01-06 00:02:11,592 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 25) | Tắc: 97%
+2026-01-06 00:02:11,593 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:02:11,608 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-06 00:02:11,609 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-06 00:02:11,609 - INFO - Scheduler started
+2026-01-06 00:02:16,610 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:16 +07)" (scheduled at 2026-01-06 00:02:16.608541+07:00)
+2026-01-06 00:02:16,610 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:02:17,394 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 19) | Tắc: 97%
+2026-01-06 00:02:18,087 - INFO - 🟢 Phố Huế: 30km/h (Gốc: 27) | Tắc: 25%
+2026-01-06 00:02:18,751 - INFO - 🔴 Tây Sơn: 9km/h (Gốc: 23) | Tắc: 77%
+2026-01-06 00:02:19,410 - INFO - 🟢 Đường Láng: 36km/h (Gốc: 36) | Tắc: 9%
+2026-01-06 00:02:20,100 - INFO - 🔴 Bà Triệu: 9km/h (Gốc: 25) | Tắc: 77%
+2026-01-06 00:02:20,100 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:02:20,100 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:21 +07)" executed successfully
+2026-01-06 00:02:21,610 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:26 +07)" (scheduled at 2026-01-06 00:02:21.608541+07:00)
+2026-01-06 00:02:21,611 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:02:22,280 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 19) | Tắc: 42%
+2026-01-06 00:02:22,934 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-06 00:02:23,606 - INFO - 🟢 Tây Sơn: 35km/h (Gốc: 30) | Tắc: 12%
+2026-01-06 00:02:24,271 - INFO - 🟡 Đường Láng: 23km/h (Gốc: 36) | Tắc: 42%
+2026-01-06 00:02:24,939 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-06 00:02:24,939 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:02:24,939 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:26 +07)" executed successfully
+2026-01-06 00:02:26,609 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:31 +07)" (scheduled at 2026-01-06 00:02:26.608541+07:00)
+2026-01-06 00:02:26,609 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:02:27,261 - INFO - 🟡 Đinh Tiên Hoàng: 16km/h (Gốc: 19) | Tắc: 60%
+2026-01-06 00:02:28,047 - INFO - 🟡 Phố Huế: 23km/h (Gốc: 27) | Tắc: 42%
+2026-01-06 00:02:28,708 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 30) | Tắc: 97%
+2026-01-06 00:02:29,369 - INFO - 🟢 Đường Láng: 38km/h (Gốc: 36) | Tắc: 5%
+2026-01-06 00:02:30,036 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-06 00:02:30,036 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:02:30,036 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:31 +07)" executed successfully
+2026-01-06 00:02:31,609 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:36 +07)" (scheduled at 2026-01-06 00:02:31.608541+07:00)
+2026-01-06 00:02:31,610 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:02:32,274 - INFO - 🟡 Đinh Tiên Hoàng: 15km/h (Gốc: 19) | Tắc: 62%
+2026-01-06 00:02:32,944 - INFO - 🟡 Phố Huế: 23km/h (Gốc: 27) | Tắc: 42%
+2026-01-06 00:02:33,621 - INFO - 🟢 Tây Sơn: 35km/h (Gốc: 30) | Tắc: 12%
+2026-01-06 00:02:34,279 - INFO - 🟢 Đường Láng: 39km/h (Gốc: 36) | Tắc: 2%
+2026-01-06 00:02:34,944 - INFO - 🟡 Bà Triệu: 21km/h (Gốc: 25) | Tắc: 47%
+2026-01-06 00:02:34,944 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:02:34,944 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:36 +07)" executed successfully
+2026-01-06 00:02:36,610 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:41 +07)" (scheduled at 2026-01-06 00:02:36.608541+07:00)
+2026-01-06 00:02:36,611 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:02:37,321 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 19) | Tắc: 55%
+2026-01-06 00:02:37,969 - INFO - 🔴 Phố Huế: 12km/h (Gốc: 27) | Tắc: 70%
+2026-01-06 00:02:39,088 - INFO - 🟡 Tây Sơn: 13km/h (Gốc: 30) | Tắc: 67%
+2026-01-06 00:02:39,755 - INFO - 🟢 Đường Láng: 38km/h (Gốc: 36) | Tắc: 5%
+2026-01-06 00:02:40,409 - INFO - 🟢 Bà Triệu: 30km/h (Gốc: 25) | Tắc: 25%
+2026-01-06 00:02:40,409 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:02:40,409 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:41 +07)" executed successfully
+2026-01-06 00:02:41,609 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:46 +07)" (scheduled at 2026-01-06 00:02:41.608541+07:00)
+2026-01-06 00:02:41,610 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:02:42,257 - INFO - 🟡 Đinh Tiên Hoàng: 24km/h (Gốc: 19) | Tắc: 40%
+2026-01-06 00:02:42,918 - INFO - 🟢 Phố Huế: 28km/h (Gốc: 27) | Tắc: 30%
+2026-01-06 00:02:43,581 - INFO - 🟡 Tây Sơn: 19km/h (Gốc: 30) | Tắc: 52%
+2026-01-06 00:02:44,257 - INFO - 🟡 Đường Láng: 22km/h (Gốc: 36) | Tắc: 44%
+2026-01-06 00:02:44,925 - INFO - 🟡 Bà Triệu: 21km/h (Gốc: 25) | Tắc: 47%
+2026-01-06 00:02:44,926 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:02:44,926 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:46 +07)" executed successfully
+2026-01-06 00:02:46,610 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:51 +07)" (scheduled at 2026-01-06 00:02:46.608541+07:00)
+2026-01-06 00:02:46,611 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:02:47,285 - INFO - 🟡 Đinh Tiên Hoàng: 20km/h (Gốc: 19) | Tắc: 50%
+2026-01-06 00:02:47,937 - INFO - 🟢 Phố Huế: 31km/h (Gốc: 27) | Tắc: 22%
+2026-01-06 00:02:48,598 - INFO - 🟢 Tây Sơn: 30km/h (Gốc: 30) | Tắc: 25%
+2026-01-06 00:02:49,402 - INFO - 🟡 Đường Láng: 17km/h (Gốc: 36) | Tắc: 57%
+2026-01-06 00:02:50,072 - INFO - 🟢 Bà Triệu: 30km/h (Gốc: 25) | Tắc: 25%
+2026-01-06 00:02:50,072 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:02:50,073 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:51 +07)" executed successfully
+2026-01-06 00:02:51,611 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:56 +07)" (scheduled at 2026-01-06 00:02:51.608541+07:00)
+2026-01-06 00:02:51,611 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:02:52,286 - INFO - 🟡 Đinh Tiên Hoàng: 17km/h (Gốc: 20) | Tắc: 57%
+2026-01-06 00:02:52,944 - INFO - 🟡 Phố Huế: 22km/h (Gốc: 27) | Tắc: 44%
+2026-01-06 00:02:53,628 - INFO - 🟡 Tây Sơn: 17km/h (Gốc: 30) | Tắc: 57%
+2026-01-06 00:02:54,280 - INFO - 🔴 Đường Láng: 3km/h (Gốc: 36) | Tắc: 92%
+2026-01-06 00:02:54,932 - INFO - 🟡 Bà Triệu: 14km/h (Gốc: 25) | Tắc: 65%
+2026-01-06 00:02:54,932 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:02:54,932 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:02:56 +07)" executed successfully
+2026-01-06 00:02:56,610 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:01 +07)" (scheduled at 2026-01-06 00:02:56.608541+07:00)
+2026-01-06 00:02:56,610 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:02:57,260 - INFO - 🟡 Đinh Tiên Hoàng: 15km/h (Gốc: 20) | Tắc: 62%
+2026-01-06 00:02:57,920 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-06 00:02:58,578 - INFO - 🔴 Tây Sơn: 11km/h (Gốc: 30) | Tắc: 72%
+2026-01-06 00:02:59,254 - INFO - 🟢 Đường Láng: 38km/h (Gốc: 36) | Tắc: 5%
+2026-01-06 00:02:59,907 - INFO - 🟡 Bà Triệu: 21km/h (Gốc: 25) | Tắc: 47%
+2026-01-06 00:02:59,908 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:02:59,908 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:01 +07)" executed successfully
+2026-01-06 00:03:01,609 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:06 +07)" (scheduled at 2026-01-06 00:03:01.608541+07:00)
+2026-01-06 00:03:01,610 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:03:02,252 - INFO - 🟢 Đinh Tiên Hoàng: 25km/h (Gốc: 20) | Tắc: 37%
+2026-01-06 00:03:02,923 - INFO - 🟢 Phố Huế: 26km/h (Gốc: 27) | Tắc: 35%
+2026-01-06 00:03:03,593 - INFO - 🟢 Tây Sơn: 35km/h (Gốc: 30) | Tắc: 12%
+2026-01-06 00:03:04,259 - INFO - 🟢 Đường Láng: 33km/h (Gốc: 36) | Tắc: 17%
+2026-01-06 00:03:04,915 - INFO - 🟢 Bà Triệu: 25km/h (Gốc: 25) | Tắc: 37%
+2026-01-06 00:03:04,915 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:03:04,915 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:06 +07)" executed successfully
+2026-01-06 00:03:06,609 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:11 +07)" (scheduled at 2026-01-06 00:03:06.608541+07:00)
+2026-01-06 00:03:06,610 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:03:07,279 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 20) | Tắc: 42%
+2026-01-06 00:03:07,940 - INFO - 🟡 Phố Huế: 22km/h (Gốc: 27) | Tắc: 44%
+2026-01-06 00:03:08,579 - INFO - 🟢 Tây Sơn: 31km/h (Gốc: 30) | Tắc: 22%
+2026-01-06 00:03:09,249 - INFO - 🟢 Đường Láng: 40km/h (Gốc: 36) | Tắc: 0%
+2026-01-06 00:03:09,891 - INFO - 🟡 Bà Triệu: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-06 00:03:09,891 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:03:09,891 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:11 +07)" executed successfully
+2026-01-06 00:03:11,609 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:16 +07)" (scheduled at 2026-01-06 00:03:11.608541+07:00)
+2026-01-06 00:03:11,609 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:03:12,272 - INFO - 🟢 Đinh Tiên Hoàng: 25km/h (Gốc: 20) | Tắc: 37%
+2026-01-06 00:03:12,941 - INFO - 🔴 Phố Huế: 12km/h (Gốc: 27) | Tắc: 70%
+2026-01-06 00:03:13,589 - INFO - 🔴 Tây Sơn: 11km/h (Gốc: 30) | Tắc: 72%
+2026-01-06 00:03:14,243 - INFO - 🟢 Đường Láng: 33km/h (Gốc: 36) | Tắc: 17%
+2026-01-06 00:03:14,916 - INFO - 🟡 Bà Triệu: 14km/h (Gốc: 25) | Tắc: 65%
+2026-01-06 00:03:14,917 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:03:14,917 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:16 +07)" executed successfully
+2026-01-06 00:03:16,609 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:21 +07)" (scheduled at 2026-01-06 00:03:16.608541+07:00)
+2026-01-06 00:03:16,609 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:03:17,278 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 20) | Tắc: 97%
+2026-01-06 00:03:17,937 - INFO - 🟡 Phố Huế: 22km/h (Gốc: 27) | Tắc: 44%
+2026-01-06 00:03:18,605 - INFO - 🟢 Tây Sơn: 30km/h (Gốc: 30) | Tắc: 25%
+2026-01-06 00:03:19,272 - INFO - 🔴 Đường Láng: 1km/h (Gốc: 36) | Tắc: 97%
+2026-01-06 00:03:20,250 - INFO - 🟢 Bà Triệu: 29km/h (Gốc: 25) | Tắc: 27%
+2026-01-06 00:03:20,250 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:03:20,250 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:21 +07)" executed successfully
+2026-01-06 00:03:21,609 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:26 +07)" (scheduled at 2026-01-06 00:03:21.608541+07:00)
+2026-01-06 00:03:21,609 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:03:22,262 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 20) | Tắc: 55%
+2026-01-06 00:03:22,916 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-06 00:03:23,583 - INFO - 🟢 Tây Sơn: 32km/h (Gốc: 30) | Tắc: 19%
+2026-01-06 00:03:24,270 - INFO - 🟢 Đường Láng: 38km/h (Gốc: 36) | Tắc: 5%
+2026-01-06 00:03:24,943 - INFO - 🟢 Bà Triệu: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-06 00:03:24,943 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:03:24,943 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:26 +07)" executed successfully
+2026-01-06 00:03:26,610 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:31 +07)" (scheduled at 2026-01-06 00:03:26.608541+07:00)
+2026-01-06 00:03:26,610 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:03:27,264 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 20) | Tắc: 42%
+2026-01-06 00:03:27,963 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 27) | Tắc: 37%
+2026-01-06 00:03:28,651 - INFO - 🟡 Tây Sơn: 16km/h (Gốc: 30) | Tắc: 60%
+2026-01-06 00:03:29,331 - INFO - 🔴 Đường Láng: 1km/h (Gốc: 36) | Tắc: 97%
+2026-01-06 00:03:29,988 - INFO - 🟡 Bà Triệu: 24km/h (Gốc: 25) | Tắc: 40%
+2026-01-06 00:03:29,989 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:03:29,989 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:31 +07)" executed successfully
+2026-01-06 00:03:31,611 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:36 +07)" (scheduled at 2026-01-06 00:03:31.608541+07:00)
+2026-01-06 00:03:31,611 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:03:32,410 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 20) | Tắc: 97%
+2026-01-06 00:03:33,066 - INFO - 🟢 Phố Huế: 30km/h (Gốc: 27) | Tắc: 25%
+2026-01-06 00:03:33,741 - INFO - 🟢 Tây Sơn: 32km/h (Gốc: 30) | Tắc: 19%
+2026-01-06 00:03:34,410 - INFO - 🟢 Đường Láng: 41km/h (Gốc: 36) | Tắc: 0%
+2026-01-06 00:03:35,090 - INFO - 🟡 Bà Triệu: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-06 00:03:35,091 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:03:35,091 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:36 +07)" executed successfully
+2026-01-06 00:03:36,611 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:41 +07)" (scheduled at 2026-01-06 00:03:36.608541+07:00)
+2026-01-06 00:03:36,611 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:03:37,266 - INFO - 🟡 Đinh Tiên Hoàng: 23km/h (Gốc: 20) | Tắc: 42%
+2026-01-06 00:03:37,903 - INFO - 🟢 Phố Huế: 29km/h (Gốc: 27) | Tắc: 27%
+2026-01-06 00:03:38,569 - INFO - 🟢 Tây Sơn: 30km/h (Gốc: 30) | Tắc: 25%
+2026-01-06 00:03:39,237 - INFO - 🟢 Đường Láng: 38km/h (Gốc: 36) | Tắc: 5%
+2026-01-06 00:03:39,915 - INFO - 🟢 Bà Triệu: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-06 00:03:39,915 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 00:03:39,915 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:41 +07)" executed successfully
+2026-01-06 00:03:41,609 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:46 +07)" (scheduled at 2026-01-06 00:03:41.608541+07:00)
+2026-01-06 00:03:41,610 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 00:03:46,609 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:46 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 00:03:51,610 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:51 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 00:03:56,609 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:03:56 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 00:04:01,609 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 00:04:01 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 00:04:03,092 - INFO -  Đang dừng chương trình...
+2026-01-06 11:57:20,385 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-06 11:57:20,403 - INFO - MongoDB connected thành công!
+2026-01-06 11:57:20,403 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-06 11:57:20,409 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:57:21,317 - INFO - 🔴 Đinh Tiên Hoàng: 12km/h (Gốc: 13) | Tắc: 70%
+2026-01-06 11:57:21,993 - INFO - 🟡 Phố Huế: 19km/h (Gốc: 18) | Tắc: 52%
+2026-01-06 11:57:22,670 - INFO - 🟡 Tây Sơn: 23km/h (Gốc: 18) | Tắc: 42%
+2026-01-06 11:57:23,336 - INFO - 🟢 Đường Láng: 26km/h (Gốc: 24) | Tắc: 35%
+2026-01-06 11:57:23,996 - INFO - 🔴 Bà Triệu: 1km/h (Gốc: 11) | Tắc: 97%
+2026-01-06 11:57:23,996 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:57:24,009 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-06 11:57:24,010 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-06 11:57:24,010 - INFO - Scheduler started
+2026-01-06 11:57:29,009 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:29 +07)" (scheduled at 2026-01-06 11:57:29.009387+07:00)
+2026-01-06 11:57:29,012 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:57:29,700 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 13) | Tắc: 97%
+2026-01-06 11:57:30,381 - INFO - 🟡 Phố Huế: 13km/h (Gốc: 18) | Tắc: 67%
+2026-01-06 11:57:31,048 - INFO - 🔴 Tây Sơn: 7km/h (Gốc: 18) | Tắc: 82%
+2026-01-06 11:57:31,754 - INFO - 🟡 Đường Láng: 23km/h (Gốc: 24) | Tắc: 42%
+2026-01-06 11:57:32,421 - INFO - 🟡 Bà Triệu: 13km/h (Gốc: 11) | Tắc: 67%
+2026-01-06 11:57:32,422 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:57:32,422 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:34 +07)" executed successfully
+2026-01-06 11:57:34,010 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:39 +07)" (scheduled at 2026-01-06 11:57:34.009387+07:00)
+2026-01-06 11:57:34,011 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:57:34,693 - INFO - 🔴 Đinh Tiên Hoàng: 12km/h (Gốc: 13) | Tắc: 70%
+2026-01-06 11:57:35,366 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-06 11:57:36,029 - INFO - 🟡 Tây Sơn: 20km/h (Gốc: 18) | Tắc: 50%
+2026-01-06 11:57:36,701 - INFO - 🟢 Đường Láng: 29km/h (Gốc: 24) | Tắc: 27%
+2026-01-06 11:57:37,367 - INFO - 🔴 Bà Triệu: 7km/h (Gốc: 11) | Tắc: 82%
+2026-01-06 11:57:37,367 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:57:37,368 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:39 +07)" executed successfully
+2026-01-06 11:57:39,032 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:44 +07)" (scheduled at 2026-01-06 11:57:39.009387+07:00)
+2026-01-06 11:57:39,032 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:57:39,702 - INFO - 🟡 Đinh Tiên Hoàng: 15km/h (Gốc: 14) | Tắc: 62%
+2026-01-06 11:57:40,380 - INFO - 🟡 Phố Huế: 18km/h (Gốc: 19) | Tắc: 55%
+2026-01-06 11:57:41,053 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-06 11:57:41,766 - INFO - 🟢 Đường Láng: 27km/h (Gốc: 24) | Tắc: 32%
+2026-01-06 11:57:42,503 - INFO - 🟡 Bà Triệu: 16km/h (Gốc: 11) | Tắc: 60%
+2026-01-06 11:57:42,504 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:57:42,504 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:44 +07)" executed successfully
+2026-01-06 11:57:44,010 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:49 +07)" (scheduled at 2026-01-06 11:57:44.009387+07:00)
+2026-01-06 11:57:44,010 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:57:44,684 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 14) | Tắc: 52%
+2026-01-06 11:57:45,368 - INFO - 🟡 Phố Huế: 20km/h (Gốc: 19) | Tắc: 50%
+2026-01-06 11:57:46,099 - INFO - 🟡 Tây Sơn: 15km/h (Gốc: 18) | Tắc: 62%
+2026-01-06 11:57:46,828 - INFO - 🟡 Đường Láng: 22km/h (Gốc: 24) | Tắc: 44%
+2026-01-06 11:57:47,495 - INFO - 🔴 Bà Triệu: 8km/h (Gốc: 11) | Tắc: 80%
+2026-01-06 11:57:47,496 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:57:47,496 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:49 +07)" executed successfully
+2026-01-06 11:57:49,010 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:54 +07)" (scheduled at 2026-01-06 11:57:49.009387+07:00)
+2026-01-06 11:57:49,010 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:57:49,686 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 14) | Tắc: 97%
+2026-01-06 11:57:50,366 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 19) | Tắc: 97%
+2026-01-06 11:57:51,079 - INFO - 🟡 Tây Sơn: 22km/h (Gốc: 18) | Tắc: 44%
+2026-01-06 11:57:51,890 - INFO - 🟡 Đường Láng: 22km/h (Gốc: 24) | Tắc: 44%
+2026-01-06 11:57:52,550 - INFO - 🔴 Bà Triệu: 6km/h (Gốc: 11) | Tắc: 85%
+2026-01-06 11:57:52,551 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:57:52,551 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:54 +07)" executed successfully
+2026-01-06 11:57:54,017 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:59 +07)" (scheduled at 2026-01-06 11:57:54.009387+07:00)
+2026-01-06 11:57:54,017 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:57:54,680 - INFO - 🔴 Đinh Tiên Hoàng: 10km/h (Gốc: 14) | Tắc: 75%
+2026-01-06 11:57:55,345 - INFO - 🟡 Phố Huế: 15km/h (Gốc: 19) | Tắc: 62%
+2026-01-06 11:57:56,040 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-06 11:57:56,732 - INFO - 🟡 Đường Láng: 20km/h (Gốc: 24) | Tắc: 50%
+2026-01-06 11:57:57,405 - INFO - 🟡 Bà Triệu: 14km/h (Gốc: 11) | Tắc: 65%
+2026-01-06 11:57:57,405 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:57:57,405 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:57:59 +07)" executed successfully
+2026-01-06 11:57:59,011 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:58:04 +07)" (scheduled at 2026-01-06 11:57:59.009387+07:00)
+2026-01-06 11:57:59,011 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:57:59,692 - INFO - 🔴 Đinh Tiên Hoàng: 11km/h (Gốc: 14) | Tắc: 72%
+2026-01-06 11:58:00,359 - INFO - 🔴 Phố Huế: 6km/h (Gốc: 19) | Tắc: 85%
+2026-01-06 11:58:01,035 - INFO - 🟡 Tây Sơn: 17km/h (Gốc: 18) | Tắc: 57%
+2026-01-06 11:58:01,713 - INFO - 🟡 Đường Láng: 20km/h (Gốc: 24) | Tắc: 50%
+2026-01-06 11:58:02,516 - INFO - 🟡 Bà Triệu: 13km/h (Gốc: 11) | Tắc: 67%
+2026-01-06 11:58:02,516 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:58:02,516 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:58:04 +07)" executed successfully
+2026-01-06 11:58:04,014 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:58:09 +07)" (scheduled at 2026-01-06 11:58:04.009387+07:00)
+2026-01-06 11:58:04,015 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:58:04,700 - INFO - 🟡 Đinh Tiên Hoàng: 16km/h (Gốc: 14) | Tắc: 60%
+2026-01-06 11:58:05,380 - INFO - 🟡 Phố Huế: 23km/h (Gốc: 18) | Tắc: 42%
+2026-01-06 11:58:06,070 - INFO - 🟡 Tây Sơn: 23km/h (Gốc: 18) | Tắc: 42%
+2026-01-06 11:58:06,760 - INFO - 🟡 Đường Láng: 23km/h (Gốc: 24) | Tắc: 42%
+2026-01-06 11:58:07,432 - INFO - 🟡 Bà Triệu: 15km/h (Gốc: 10) | Tắc: 62%
+2026-01-06 11:58:07,433 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:58:07,433 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:58:09 +07)" executed successfully
+2026-01-06 11:58:09,010 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:58:14 +07)" (scheduled at 2026-01-06 11:58:09.009387+07:00)
+2026-01-06 11:58:09,011 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:58:09,708 - INFO - 🟡 Đinh Tiên Hoàng: 13km/h (Gốc: 14) | Tắc: 67%
+2026-01-06 11:58:10,450 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-06 11:58:11,136 - INFO - 🟡 Tây Sơn: 15km/h (Gốc: 18) | Tắc: 62%
+2026-01-06 11:58:11,833 - INFO - 🟢 Đường Láng: 25km/h (Gốc: 24) | Tắc: 37%
+2026-01-06 11:58:12,601 - INFO - 🔴 Bà Triệu: 9km/h (Gốc: 10) | Tắc: 77%
+2026-01-06 11:58:12,601 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:58:12,602 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:58:14 +07)" executed successfully
+2026-01-06 11:58:14,010 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:58:19 +07)" (scheduled at 2026-01-06 11:58:14.009387+07:00)
+2026-01-06 11:58:14,010 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:58:14,768 - INFO - 🔴 Đinh Tiên Hoàng: 1km/h (Gốc: 14) | Tắc: 97%
+2026-01-06 11:58:15,711 - INFO - 🟡 Phố Huế: 15km/h (Gốc: 18) | Tắc: 62%
+2026-01-06 11:58:16,378 - INFO - 🟡 Tây Sơn: 17km/h (Gốc: 18) | Tắc: 57%
+2026-01-06 11:58:17,073 - INFO - 🟡 Đường Láng: 21km/h (Gốc: 24) | Tắc: 47%
+2026-01-06 11:58:17,767 - INFO - 🟡 Bà Triệu: 15km/h (Gốc: 10) | Tắc: 62%
+2026-01-06 11:58:17,768 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:58:17,768 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:58:19 +07)" executed successfully
+2026-01-06 11:58:19,014 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:58:24 +07)" (scheduled at 2026-01-06 11:58:19.009387+07:00)
+2026-01-06 11:58:19,014 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 11:58:19,620 - INFO -  Đang dừng chương trình...
+2026-01-06 11:58:19,720 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 14) | Tắc: 55%
+2026-01-06 11:58:20,397 - INFO - 🟡 Phố Huế: 19km/h (Gốc: 18) | Tắc: 52%
+2026-01-06 11:58:21,059 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-06 11:58:21,828 - INFO - 🟢 Đường Láng: 28km/h (Gốc: 24) | Tắc: 30%
+2026-01-06 11:58:22,498 - INFO - 🔴 Bà Triệu: 9km/h (Gốc: 10) | Tắc: 77%
+2026-01-06 11:58:22,498 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 11:58:22,498 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 11:58:24 +07)" executed successfully
+2026-01-06 11:58:22,500 - INFO - Scheduler has been shut down
+2026-01-06 12:02:37,233 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-06 12:02:37,244 - INFO - MongoDB connected thành công!
+2026-01-06 12:02:37,244 - INFO -  Bắt đầu thu thập (Chu kỳ: 10s/lần)...
+2026-01-06 12:02:37,245 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:02:38,087 - INFO - 🟡 Đinh Tiên Hoàng: 20km/h (Gốc: 17) | Tắc: 50%
+2026-01-06 12:02:38,806 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 20) | Tắc: 97%
+2026-01-06 12:02:39,482 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 17) | Tắc: 97%
+2026-01-06 12:02:40,162 - INFO - 🟢 Đường Láng: 29km/h (Gốc: 25) | Tắc: 27%
+2026-01-06 12:02:40,833 - INFO - 🟡 Bà Triệu: 14km/h (Gốc: 11) | Tắc: 65%
+2026-01-06 12:02:40,834 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 12:02:40,864 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-06 12:02:40,865 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-06 12:02:40,865 - INFO - Scheduler started
+2026-01-06 12:02:45,865 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:02:45 +07)" (scheduled at 2026-01-06 12:02:45.864467+07:00)
+2026-01-06 12:02:45,865 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:02:46,552 - INFO - 🟡 Đinh Tiên Hoàng: 15km/h (Gốc: 17) | Tắc: 62%
+2026-01-06 12:02:47,220 - INFO - 🟡 Phố Huế: 23km/h (Gốc: 20) | Tắc: 42%
+2026-01-06 12:02:47,901 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 17) | Tắc: 97%
+2026-01-06 12:02:48,575 - INFO - 🟡 Đường Láng: 24km/h (Gốc: 25) | Tắc: 40%
+2026-01-06 12:02:49,334 - INFO - 🟡 Bà Triệu: 15km/h (Gốc: 11) | Tắc: 62%
+2026-01-06 12:02:49,334 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 12:02:49,334 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:02:50 +07)" executed successfully
+2026-01-06 12:02:50,865 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:02:55 +07)" (scheduled at 2026-01-06 12:02:50.864467+07:00)
+2026-01-06 12:02:50,865 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:02:51,568 - INFO - 🟡 Đinh Tiên Hoàng: 17km/h (Gốc: 17) | Tắc: 57%
+2026-01-06 12:02:52,235 - INFO - 🟡 Phố Huế: 17km/h (Gốc: 20) | Tắc: 57%
+2026-01-06 12:02:52,910 - INFO - 🔴 Tây Sơn: 3km/h (Gốc: 17) | Tắc: 92%
+2026-01-06 12:02:53,592 - INFO - 🟢 Đường Láng: 25km/h (Gốc: 25) | Tắc: 37%
+2026-01-06 12:02:54,292 - INFO - 🔴 Bà Triệu: 6km/h (Gốc: 11) | Tắc: 85%
+2026-01-06 12:02:54,293 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 12:02:54,293 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:02:55 +07)" executed successfully
+2026-01-06 12:02:55,875 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:03:00 +07)" (scheduled at 2026-01-06 12:02:55.864467+07:00)
+2026-01-06 12:02:55,875 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:02:56,626 - INFO - 🟡 Đinh Tiên Hoàng: 18km/h (Gốc: 17) | Tắc: 55%
+2026-01-06 12:02:57,410 - INFO - 🟢 Phố Huế: 25km/h (Gốc: 20) | Tắc: 37%
+2026-01-06 12:02:58,125 - INFO - 🔴 Tây Sơn: 7km/h (Gốc: 17) | Tắc: 82%
+2026-01-06 12:02:58,836 - INFO - 🟡 Đường Láng: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-06 12:02:59,548 - INFO - 🔴 Bà Triệu: 11km/h (Gốc: 11) | Tắc: 72%
+2026-01-06 12:02:59,550 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 12:02:59,550 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:03:00 +07)" executed successfully
+2026-01-06 12:03:00,866 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:03:05 +07)" (scheduled at 2026-01-06 12:03:00.864467+07:00)
+2026-01-06 12:03:00,866 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:03:01,551 - INFO - 🟡 Đinh Tiên Hoàng: 20km/h (Gốc: 17) | Tắc: 50%
+2026-01-06 12:03:02,224 - INFO - 🟡 Phố Huế: 18km/h (Gốc: 20) | Tắc: 55%
+2026-01-06 12:03:02,908 - INFO - 🟡 Tây Sơn: 16km/h (Gốc: 17) | Tắc: 60%
+2026-01-06 12:03:03,591 - INFO - 🟢 Đường Láng: 26km/h (Gốc: 25) | Tắc: 35%
+2026-01-06 12:03:04,339 - INFO - 🔴 Bà Triệu: 7km/h (Gốc: 11) | Tắc: 82%
+2026-01-06 12:03:04,340 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 12:03:04,340 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:03:05 +07)" executed successfully
+2026-01-06 12:03:05,866 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:03:10 +07)" (scheduled at 2026-01-06 12:03:05.864467+07:00)
+2026-01-06 12:03:05,866 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:03:06,562 - INFO - 🟡 Đinh Tiên Hoàng: 19km/h (Gốc: 17) | Tắc: 52%
+2026-01-06 12:03:07,234 - INFO - 🟡 Phố Huế: 23km/h (Gốc: 20) | Tắc: 42%
+2026-01-06 12:03:07,967 - INFO - 🟡 Tây Sơn: 20km/h (Gốc: 17) | Tắc: 50%
+2026-01-06 12:03:08,731 - INFO - 🟡 Đường Láng: 15km/h (Gốc: 25) | Tắc: 62%
+2026-01-06 12:03:09,420 - INFO - 🟡 Bà Triệu: 16km/h (Gốc: 11) | Tắc: 60%
+2026-01-06 12:03:09,420 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 12:03:09,420 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:03:10 +07)" executed successfully
+2026-01-06 12:03:10,866 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:03:15 +07)" (scheduled at 2026-01-06 12:03:10.864467+07:00)
+2026-01-06 12:03:10,867 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:03:11,553 - INFO - 🟡 Đinh Tiên Hoàng: 13km/h (Gốc: 17) | Tắc: 67%
+2026-01-06 12:03:12,251 - INFO - 🟡 Phố Huế: 20km/h (Gốc: 20) | Tắc: 50%
+2026-01-06 12:03:12,942 - INFO - 🟡 Tây Sơn: 20km/h (Gốc: 17) | Tắc: 50%
+2026-01-06 12:03:13,644 - INFO - 🟢 Đường Láng: 27km/h (Gốc: 25) | Tắc: 32%
+2026-01-06 12:03:14,330 - INFO - 🔴 Bà Triệu: 9km/h (Gốc: 11) | Tắc: 77%
+2026-01-06 12:03:14,330 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 12:03:14,330 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:03:15 +07)" executed successfully
+2026-01-06 12:03:15,865 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:03:20 +07)" (scheduled at 2026-01-06 12:03:15.864467+07:00)
+2026-01-06 12:03:15,865 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:03:16,453 - INFO -  Đang dừng chương trình...
+2026-01-06 12:03:16,555 - INFO - 🟡 Đinh Tiên Hoàng: 15km/h (Gốc: 17) | Tắc: 62%
+2026-01-06 12:03:17,265 - INFO - 🔴 Phố Huế: 10km/h (Gốc: 20) | Tắc: 75%
+2026-01-06 12:03:17,969 - INFO - 🟡 Tây Sơn: 22km/h (Gốc: 17) | Tắc: 44%
+2026-01-06 12:03:18,667 - INFO - 🟡 Đường Láng: 14km/h (Gốc: 25) | Tắc: 65%
+2026-01-06 12:03:19,398 - INFO - 🔴 Bà Triệu: 8km/h (Gốc: 10) | Tắc: 80%
+2026-01-06 12:03:19,399 - INFO - ✓ Đã lưu 5 bản ghi mới.
+2026-01-06 12:03:19,399 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:05], next run at: 2026-01-06 12:03:20 +07)" executed successfully
+2026-01-06 12:03:19,399 - INFO - Scheduler has been shut down
+2026-01-06 12:33:34,906 - INFO -  Khởi động bộ thu thập dữ liệu TomTom...
+2026-01-06 12:33:34,922 - INFO - MongoDB connected thành công!
+2026-01-06 12:33:34,922 - INFO -  Bắt đầu thu thập (Chu kỳ: 2s/lần - tăng từ 5s)...
+2026-01-06 12:33:34,923 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:33:35,807 - INFO - 🟡 Đinh Tiên Hoàng: 17km/h (Gốc: 16) | Tắc: 57%
+2026-01-06 12:33:36,492 - INFO - 🟡 Phố Huế: 21km/h (Gốc: 18) | Tắc: 47%
+2026-01-06 12:33:37,219 - INFO - 🟡 Tây Sơn: 23km/h (Gốc: 19) | Tắc: 42%
+2026-01-06 12:33:37,976 - INFO - 🔴 Đường Láng: 9km/h (Gốc: 24) | Tắc: 77%
+2026-01-06 12:33:38,683 - INFO - 🔴 Bà Triệu: 4km/h (Gốc: 18) | Tắc: 90%
+2026-01-06 12:33:39,360 - INFO - 🟢 Cầu Giấy: 34km/h (Gốc: 39) | Tắc: 15%
+2026-01-06 12:33:40,072 - INFO - 🟡 Ngã Tư Sở: 24km/h (Gốc: 24) | Tắc: 40%
+2026-01-06 12:33:40,774 - INFO - 🔴 Thanh Xuân: 1km/h (Gốc: 25) | Tắc: 97%
+2026-01-06 12:33:41,444 - INFO - 🟢 Xã Đàn: 27km/h (Gốc: 24) | Tắc: 32%
+2026-01-06 12:33:42,127 - INFO - 🟡 Quang Trung: 15km/h (Gốc: 18) | Tắc: 62%
+2026-01-06 12:33:42,799 - INFO - 🔴 Thái Hà: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-06 12:33:43,494 - INFO - 🟡 Núi Trúc: 16km/h (Gốc: 18) | Tắc: 60%
+2026-01-06 12:33:44,350 - INFO - 🟢 Trường Chinh: 26km/h (Gốc: 25) | Tắc: 35%
+2026-01-06 12:33:45,012 - INFO - 🔴 Tôn Đức Thắng: 12km/h (Gốc: 15) | Tắc: 70%
+2026-01-06 12:33:45,745 - INFO - 🟡 Kim Mã: 13km/h (Gốc: 16) | Tắc: 67%
+2026-01-06 12:33:45,746 - INFO - ✓ Đã lưu 15 bản ghi mới.
+2026-01-06 12:33:45,759 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-01-06 12:33:45,759 - INFO - Added job "TrafficDataGenerator.fetch_and_save" to job store "default"
+2026-01-06 12:33:45,759 - INFO - Scheduler started
+2026-01-06 12:33:47,760 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:33:47 +07)" (scheduled at 2026-01-06 12:33:47.758814+07:00)
+2026-01-06 12:33:47,764 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:33:48,468 - INFO - 🔴 Đinh Tiên Hoàng: 11km/h (Gốc: 15) | Tắc: 72%
+2026-01-06 12:33:49,141 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 16) | Tắc: 97%
+2026-01-06 12:33:49,760 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:33:49 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:33:49,825 - INFO - 🔴 Tây Sơn: 5km/h (Gốc: 18) | Tắc: 87%
+2026-01-06 12:33:50,504 - INFO - 🟡 Đường Láng: 22km/h (Gốc: 24) | Tắc: 44%
+2026-01-06 12:33:51,220 - INFO - 🟡 Bà Triệu: 15km/h (Gốc: 18) | Tắc: 62%
+2026-01-06 12:33:51,761 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:33:51 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:33:51,908 - INFO - 🟡 Cầu Giấy: 22km/h (Gốc: 39) | Tắc: 44%
+2026-01-06 12:33:52,608 - INFO - 🟢 Ngã Tư Sở: 28km/h (Gốc: 24) | Tắc: 30%
+2026-01-06 12:33:53,321 - INFO - 🟢 Thanh Xuân: 28km/h (Gốc: 25) | Tắc: 30%
+2026-01-06 12:33:53,760 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:33:53 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:33:54,007 - INFO - 🟡 Xã Đàn: 22km/h (Gốc: 24) | Tắc: 44%
+2026-01-06 12:33:54,674 - INFO - 🔴 Quang Trung: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-06 12:33:55,410 - INFO - 🟡 Thái Hà: 20km/h (Gốc: 18) | Tắc: 50%
+2026-01-06 12:33:55,763 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:33:55 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:33:56,109 - INFO - 🟡 Núi Trúc: 17km/h (Gốc: 18) | Tắc: 57%
+2026-01-06 12:33:56,790 - INFO - 🔴 Trường Chinh: 1km/h (Gốc: 25) | Tắc: 97%
+2026-01-06 12:33:57,464 - INFO - 🟡 Tôn Đức Thắng: 17km/h (Gốc: 15) | Tắc: 57%
+2026-01-06 12:33:57,760 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:33:57 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:33:58,151 - INFO - 🔴 Kim Mã: 1km/h (Gốc: 16) | Tắc: 97%
+2026-01-06 12:33:58,151 - INFO - ✓ Đã lưu 15 bản ghi mới.
+2026-01-06 12:33:58,151 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:33:59 +07)" executed successfully
+2026-01-06 12:33:59,763 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:01 +07)" (scheduled at 2026-01-06 12:33:59.758814+07:00)
+2026-01-06 12:33:59,764 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:34:00,466 - INFO - 🔴 Đinh Tiên Hoàng: 11km/h (Gốc: 15) | Tắc: 72%
+2026-01-06 12:34:01,173 - INFO - 🟡 Phố Huế: 14km/h (Gốc: 16) | Tắc: 65%
+2026-01-06 12:34:01,760 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:01 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:01,895 - INFO - 🟡 Tây Sơn: 15km/h (Gốc: 18) | Tắc: 62%
+2026-01-06 12:34:02,623 - INFO - 🔴 Đường Láng: 9km/h (Gốc: 24) | Tắc: 77%
+2026-01-06 12:34:03,344 - INFO - 🟡 Bà Triệu: 16km/h (Gốc: 18) | Tắc: 60%
+2026-01-06 12:34:03,760 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:03 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:04,040 - INFO - 🔴 Cầu Giấy: 9km/h (Gốc: 39) | Tắc: 77%
+2026-01-06 12:34:04,706 - INFO - 🔴 Ngã Tư Sở: 5km/h (Gốc: 24) | Tắc: 87%
+2026-01-06 12:34:05,375 - INFO - 🟡 Thanh Xuân: 23km/h (Gốc: 25) | Tắc: 42%
+2026-01-06 12:34:05,760 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:05 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:06,120 - INFO - 🟡 Xã Đàn: 19km/h (Gốc: 24) | Tắc: 52%
+2026-01-06 12:34:06,810 - INFO - 🔴 Quang Trung: 6km/h (Gốc: 18) | Tắc: 85%
+2026-01-06 12:34:07,515 - INFO - 🔴 Thái Hà: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-06 12:34:07,759 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:07 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:08,277 - INFO - 🟡 Núi Trúc: 14km/h (Gốc: 18) | Tắc: 65%
+2026-01-06 12:34:09,009 - INFO - 🟢 Trường Chinh: 26km/h (Gốc: 25) | Tắc: 35%
+2026-01-06 12:34:09,706 - INFO - 🟡 Tôn Đức Thắng: 17km/h (Gốc: 15) | Tắc: 57%
+2026-01-06 12:34:09,759 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:09 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:10,390 - INFO - 🟡 Kim Mã: 16km/h (Gốc: 16) | Tắc: 60%
+2026-01-06 12:34:10,391 - INFO - ✓ Đã lưu 15 bản ghi mới.
+2026-01-06 12:34:10,391 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:11 +07)" executed successfully
+2026-01-06 12:34:11,761 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:13 +07)" (scheduled at 2026-01-06 12:34:11.758814+07:00)
+2026-01-06 12:34:11,764 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:34:12,483 - INFO - 🔴 Đinh Tiên Hoàng: 11km/h (Gốc: 16) | Tắc: 72%
+2026-01-06 12:34:13,185 - INFO - 🔴 Phố Huế: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-06 12:34:13,759 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:13 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:13,895 - INFO - 🔴 Tây Sơn: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-06 12:34:14,586 - INFO - 🔴 Đường Láng: 1km/h (Gốc: 24) | Tắc: 97%
+2026-01-06 12:34:15,298 - INFO - 🔴 Bà Triệu: 9km/h (Gốc: 25) | Tắc: 77%
+2026-01-06 12:34:15,759 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:15 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:16,030 - INFO - 🟢 Cầu Giấy: 35km/h (Gốc: 39) | Tắc: 12%
+2026-01-06 12:34:16,759 - INFO - 🟢 Ngã Tư Sở: 25km/h (Gốc: 24) | Tắc: 37%
+2026-01-06 12:34:17,472 - INFO - 🟡 Thanh Xuân: 20km/h (Gốc: 15) | Tắc: 50%
+2026-01-06 12:34:17,760 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:17 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:18,167 - INFO - 🟢 Xã Đàn: 28km/h (Gốc: 24) | Tắc: 30%
+2026-01-06 12:34:18,861 - INFO - 🟡 Quang Trung: 15km/h (Gốc: 18) | Tắc: 62%
+2026-01-06 12:34:19,541 - INFO - 🟡 Thái Hà: 22km/h (Gốc: 18) | Tắc: 44%
+2026-01-06 12:34:19,762 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:19 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:20,249 - INFO - 🟡 Núi Trúc: 19km/h (Gốc: 18) | Tắc: 52%
+2026-01-06 12:34:20,960 - INFO - 🟡 Trường Chinh: 22km/h (Gốc: 25) | Tắc: 44%
+2026-01-06 12:34:21,718 - INFO - 🟡 Tôn Đức Thắng: 13km/h (Gốc: 15) | Tắc: 67%
+2026-01-06 12:34:21,761 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:21 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:22,415 - INFO - 🟡 Kim Mã: 19km/h (Gốc: 16) | Tắc: 52%
+2026-01-06 12:34:22,415 - INFO - ✓ Đã lưu 15 bản ghi mới.
+2026-01-06 12:34:22,415 - INFO - Job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:23 +07)" executed successfully
+2026-01-06 12:34:23,764 - INFO - Running job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:25 +07)" (scheduled at 2026-01-06 12:34:23.758814+07:00)
+2026-01-06 12:34:23,764 - INFO - 📡 Đang cập nhật dữ liệu từ API...
+2026-01-06 12:34:24,588 - INFO - 🟡 Đinh Tiên Hoàng: 14km/h (Gốc: 16) | Tắc: 65%
+2026-01-06 12:34:25,319 - INFO - 🟡 Phố Huế: 14km/h (Gốc: 18) | Tắc: 65%
+2026-01-06 12:34:25,759 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:25 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:26,030 - INFO - 🟡 Tây Sơn: 20km/h (Gốc: 18) | Tắc: 50%
+2026-01-06 12:34:26,720 - INFO - 🔴 Đường Láng: 1km/h (Gốc: 24) | Tắc: 97%
+2026-01-06 12:34:27,467 - INFO - 🟡 Bà Triệu: 13km/h (Gốc: 25) | Tắc: 67%
+2026-01-06 12:34:27,759 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:27 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:28,153 - INFO - 🟢 Cầu Giấy: 28km/h (Gốc: 39) | Tắc: 30%
+2026-01-06 12:34:28,477 - INFO -  Đang dừng chương trình...
+2026-01-06 12:34:28,860 - INFO - 🔴 Ngã Tư Sở: 1km/h (Gốc: 24) | Tắc: 97%
+2026-01-06 12:34:29,582 - INFO - 🟡 Thanh Xuân: 13km/h (Gốc: 15) | Tắc: 67%
+2026-01-06 12:34:30,301 - INFO - 🔴 Xã Đàn: 5km/h (Gốc: 24) | Tắc: 87%
+2026-01-06 12:34:30,947 - WARNING - Execution of job "TrafficDataGenerator.fetch_and_save (trigger: interval[0:00:02], next run at: 2026-01-06 12:34:29 +07)" skipped: maximum number of running instances reached (1)
+2026-01-06 12:34:31,050 - INFO - 🟡 Quang Trung: 20km/h (Gốc: 18) | Tắc: 50%
+2026-01-06 12:34:31,752 - INFO - 🟡 Thái Hà: 17km/h (Gốc: 18) | Tắc: 57%
+2026-01-06 12:34:32,439 - INFO - 🔴 Núi Trúc: 1km/h (Gốc: 18) | Tắc: 97%
+2026-01-06 12:34:33,136 - INFO - 🟢 Trường Chinh: 26km/h (Gốc: 25) | Tắc: 35%
+2026-01-06 12:34:33,819 - INFO - 🟡 Tôn Đức Thắng: 16km/h (Gốc: 15) | Tắc: 60%
