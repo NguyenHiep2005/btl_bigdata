@@ -36,10 +36,10 @@ pip install -r requirements.txt
 
 # Tạo Terminal 1
 docker-compose up
-
+--Chạy terminal 1 xong có thể truy cập: http://localhost:8081 Để xem db
 
 # Terminal 2
-cd traffic-prediction-system
+cd btl_bigdata
 
 source venv/bin/activate
 
@@ -47,7 +47,7 @@ python data_generator.py
 
 
 # Teminal 3
-cd traffic-prediction-system
+cd btl_bigdata
 
 source venv/bin/activate
 
@@ -55,7 +55,7 @@ python prediction_pyspark.py
 
 
 # Terminal 4
-cd traffic-prediction-system
+cd btl_bigdata
 
 source venv/bin/activate
 
@@ -63,4 +63,4 @@ python backend/app.py
 
 
 # Truy cập giao diện web
-http://localhost:5000
+http://localhohttp://localhost:5000
