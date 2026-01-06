@@ -63,4 +63,8 @@ python backend/app.py
 
 
 # Truy cập giao diện web
-http://localhohttp://localhost:5000
+http://localhost:5000
+# Kiểm tra api
+http://localhost:5000/api/current-predictions
+# Xem database
+http://localhost:8081
