@@ -35,7 +35,7 @@ pip install -r requirements.txt
 
 
 # Tạo Terminal 1
-docker-compose up
+docker compose up
 --Chạy terminal 1 xong có thể truy cập: http://localhost:8081 Để xem db
 
 # Terminal 2
