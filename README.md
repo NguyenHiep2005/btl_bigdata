@@ -38,10 +38,6 @@
     docker compose up
 
 # Terminal 2
-    cd btl_bigdata
-    
-    source venv/bin/activate
-    
     python data_generator.py
 # Terminal 3
     python prediction_pyspark.py
